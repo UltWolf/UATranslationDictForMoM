@@ -8643,37 +8643,37 @@ msgstr ""
 #. Key: CombatCommandWidget.1-638327234817777501
 msgctxt "CombatCommandWidget.1-638327234817777501"
 msgid "Confirm"
-msgstr ""
+msgstr "Підтвердити"
 
 #. Key: CombatCommandWidget.2-638327234817777501
 msgctxt "CombatCommandWidget.2-638327234817777501"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 #. Key: CombatCommandWidget.0-638295487991199530
 msgctxt "CombatCommandWidget.0-638295487991199530"
 msgid "CAST"
-msgstr ""
+msgstr "ЗАКЛИНАТИ"
 
 #. Key: CombatCommandWidget.1-638295487991199530
 msgctxt "CombatCommandWidget.1-638295487991199530"
 msgid "USE"
-msgstr ""
+msgstr "ВИКОРИСТАТИ"
 
 #. Key: CombatCommandWidget.2-638295487991199530
 msgctxt "CombatCommandWidget.2-638295487991199530"
 msgid "MOVE"
-msgstr ""
+msgstr "РУХАТИСЬ"
 
 #. Key: CombatCommandWidget.3-638295487991199530
 msgctxt "CombatCommandWidget.3-638295487991199530"
 msgid "FLEE"
-msgstr ""
+msgstr "ВТЕКТИ"
 
 #. Key: CombatCommandWidget.4-638295487991199530
 msgctxt "CombatCommandWidget.4-638295487991199530"
 msgid "PASS"
-msgstr ""
+msgstr "ПРОПУСТИТИ"
 
 #. Key: CombatMovePickerWidget.0-638332372939006425
 #. Args:
@@ -9744,7 +9744,7 @@ msgstr ""
 #. Key: HUDToolHoverUtils.14-638330714199807359
 msgctxt "HUDToolHoverUtils.14-638330714199807359"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 #. Key: HUDToolHoverUtils.15-638330714199807359
 #. Args:
@@ -10233,7 +10233,7 @@ msgstr ""
 #. Key: SettingsWindowOptions_Controls.1-638421278416767106
 msgctxt "SettingsWindowOptions_Controls.1-638421278416767106"
 msgid "Clear"
-msgstr ""
+msgstr "Очистити"
 
 #. Key: SettingsWindowOptions_Controls.2-638421278416767106
 msgctxt "SettingsWindowOptions_Controls.2-638421278416767106"
@@ -10243,7 +10243,7 @@ msgstr "Категорія"
 #. Key: SettingsWindowOptions_Controls.3-638421278416767106
 msgctxt "SettingsWindowOptions_Controls.3-638421278416767106"
 msgid "Command"
-msgstr ""
+msgstr "Команда"
 
 #. Key: SettingsWindowOptions_Controls.4-638421278416767106
 msgctxt "SettingsWindowOptions_Controls.4-638421278416767106"
@@ -10291,7 +10291,7 @@ msgstr ""
 #. Key: SettingsWindowOptions_Controls.7-638423313418490383
 msgctxt "SettingsWindowOptions_Controls.7-638423313418490383"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 #. Key: SettingsWindowOptions_Controls.8-638423313418490383
 msgctxt "SettingsWindowOptions_Controls.8-638423313418490383"
@@ -10311,7 +10311,7 @@ msgstr ""
 #. Key: SettingsWindowOptions_Controls.11-638423313418490383
 msgctxt "SettingsWindowOptions_Controls.11-638423313418490383"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 #. Key: SettingsWindowOptions_Controls.2-638332372939816524
 msgctxt "SettingsWindowOptions_Controls.2-638332372939816524"
@@ -13332,7 +13332,7 @@ msgstr ""
 #. Key: AutoRoofMainWidget.0-638336722418185876
 msgctxt "AutoRoofMainWidget.0-638336722418185876"
 msgid "Confirm"
-msgstr ""
+msgstr "Підтвердити"
 
 #. Key: AutoRoofMainWidget.1-638445593342271249
 msgctxt "AutoRoofMainWidget.1-638445593342271249"
@@ -14513,12 +14513,12 @@ msgstr ""
 #. Key: BaseErrandPlayerDisabledButtonProvider.16-638327234819571353
 msgctxt "BaseErrandPlayerDisabledButtonProvider.16-638327234819571353"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.17-638327234819571353
 msgctxt "BaseErrandPlayerDisabledButtonProvider.17-638327234819571353"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 #. Key: BaseErrandPlayerDisabledButtonProvider.18-638327234819571353
 msgctxt "BaseErrandPlayerDisabledButtonProvider.18-638327234819571353"
