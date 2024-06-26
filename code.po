@@ -5105,19 +5105,19 @@ msgstr ""
 #. - desc.DisplayName
 msgctxt "TakeInventoryErrand.0-638313412187113365"
 msgid "Take {0}"
-msgstr ""
+msgstr "Взяти {0}"
 
 #. Key: TakeInventoryErrand.1-638313412187113365
 #. Args:
 #. - Config.Category
 msgctxt "TakeInventoryErrand.1-638313412187113365"
 msgid "Take {0}"
-msgstr ""
+msgstr "Взяти {0}"
 
 #. Key: TakeInventoryErrand.2-638313412187113365
 msgctxt "TakeInventoryErrand.2-638313412187113365"
 msgid "Take item"
-msgstr ""
+msgstr "Взяти річ"
 
 #. Key: TakeStudentErrand.0-638313412187113365
 msgctxt "TakeStudentErrand.0-638313412187113365"
@@ -5624,12 +5624,12 @@ msgstr ""
 #. Key: GameTextLinkHandler.0-638301241769971490
 msgctxt "GameTextLinkHandler.0-638301241769971490"
 msgid "Earned:"
-msgstr ""
+msgstr "Отримали:"
 
 #. Key: GameTextLinkHandler.1-638301241769981492
 msgctxt "GameTextLinkHandler.1-638301241769981492"
 msgid "Will Earn:"
-msgstr ""
+msgstr "Отримаєте:"
 
 #. Key: GameTextLinkHandler.0-638525885276798002
 #. Args:
@@ -5709,7 +5709,8 @@ msgstr ""
 msgctxt "GameTextLinkHandler.12-638309805090591307"
 msgid "\n"
 "Ingredients:"
-msgstr ""
+msgstr "\n"
+"Інгредієнти:"
 
 #. Key: GameTextLinkHandler.13-638309805090591307
 #. Args:
@@ -5725,14 +5726,15 @@ msgstr ""
 msgctxt "GameTextLinkHandler.14-638309805090591307"
 msgid "\n"
 "Can Eat: {0}"
-msgstr ""
+msgstr "\n"
+"Може їсти: {0}"
 
 #. Key: GameTextLinkHandler.0-638445593335992887
 #. Args:
 #. - SkillsUtils.GetSkillRequirementStringForSpell(spellConfig)
 msgctxt "GameTextLinkHandler.0-638445593335992887"
 msgid "Requires {0}"
-msgstr ""
+msgstr "Потребує  {0}"
 
 #. Key: GameTextLinkHandler.15-638309805090591307
 #. Args:
@@ -5755,7 +5757,9 @@ msgctxt "GameTextLinkHandler.17-638309805090591307"
 msgid "\n"
 "\n"
 "Max Skill"
-msgstr ""
+msgstr "\n"
+"\n"
+"Максимальна навичка"
 
 #. Key: GameTextLinkHandler.0-638537861633642453
 #. Args:
@@ -5798,7 +5802,7 @@ msgstr ""
 #. Key: GameTextLinkHandler.22-638309805090591307
 msgctxt "GameTextLinkHandler.22-638309805090591307"
 msgid "No"
-msgstr ""
+msgstr "Ні"
 
 #. Key: GameTextLinkHandler.23-638309805090591307
 #. Args:
@@ -5817,7 +5821,7 @@ msgstr ""
 #. Key: GameTextLinkHandler.25-638309805090591307
 msgctxt "GameTextLinkHandler.25-638309805090591307"
 msgid "Any"
-msgstr ""
+msgstr "Будь-який"
 
 #. Key: GameTextLinkHandler.26-638309805090591307
 #. Args:
@@ -5848,7 +5852,7 @@ msgstr ""
 #. Key: GameTextLinkHandler.30-638309805090591307
 msgctxt "GameTextLinkHandler.30-638309805090591307"
 msgid "No "
-msgstr ""
+msgstr "Ні"
 
 #. Key: GameTextLinkHandler.31-638309805090591307
 #. Args:
@@ -6089,7 +6093,7 @@ msgstr ""
 #. Key: PersistentPlayerOptions.0-638429976721043678
 msgctxt "PersistentPlayerOptions.0-638429976721043678"
 msgid "Gremlins"
-msgstr ""
+msgstr "Гремліни"
 
 #. Key: PersistentPlayerOptions.1-638429976721043678
 msgctxt "PersistentPlayerOptions.1-638429976721043678"
@@ -6104,12 +6108,12 @@ msgstr ""
 #. Key: PersistentPlayerOptions.0-638452321716481775
 msgctxt "PersistentPlayerOptions.0-638452321716481775"
 msgid "No Research Selected"
-msgstr ""
+msgstr "Дослідження не обрано"
 
 #. Key: PersistentPlayerOptions.3-638429976721043678
 msgctxt "PersistentPlayerOptions.3-638429976721043678"
 msgid "Events"
-msgstr ""
+msgstr "Події"
 
 #. Key: PersistentPlayerOptions.4-638429976721043678
 #. Args:
@@ -7218,17 +7222,17 @@ msgstr ""
 #. Key: ExploreDungeonRoomAlertWidget.1-638301971463964868
 msgctxt "ExploreDungeonRoomAlertWidget.1-638301971463964868"
 msgid "Begin"
-msgstr ""
+msgstr "Почати"
 
 #. Key: ExploreDungeonRoomAlertWidget.0-638321842051798002
 msgctxt "ExploreDungeonRoomAlertWidget.0-638321842051798002"
 msgid "Send Mages to open the door"
-msgstr ""
+msgstr "Відправити магів відкрити двері"
 
 #. Key: ExploreDungeonRoomAlertWidget.1-638321842051798002
 msgctxt "ExploreDungeonRoomAlertWidget.1-638321842051798002"
 msgid "Cancel"
-msgstr ""
+msgstr "Скасувати"
 
 #. Key: ExploreDungeonRoomAlertWidget.0-638303640099963936
 msgctxt "ExploreDungeonRoomAlertWidget.0-638303640099963936"
@@ -7243,27 +7247,27 @@ msgstr ""
 #. Key: ExploreDungeonRoomAlertWidget.1-638303640099963936
 msgctxt "ExploreDungeonRoomAlertWidget.1-638303640099963936"
 msgid "Yes"
-msgstr ""
+msgstr "Так"
 
 #. Key: ExploreDungeonRoomAlertWidget.2-638303640099963936
 msgctxt "ExploreDungeonRoomAlertWidget.2-638303640099963936"
 msgid "No"
-msgstr ""
+msgstr "Ні"
 
 #. Key: ExploreDungeonRoomAlertWidget.0-638361867543808365
 msgctxt "ExploreDungeonRoomAlertWidget.0-638361867543808365"
 msgid "Locked"
-msgstr ""
+msgstr "Зачинено"
 
 #. Key: ExploreDungeonRoomAlertWidget.0-638301971463964868
 msgctxt "ExploreDungeonRoomAlertWidget.0-638301971463964868"
 msgid "Explore"
-msgstr ""
+msgstr "Дослідити"
 
 #. Key: ExploreDungeonRoomAlertWidget.3-638303640099963936
 msgctxt "ExploreDungeonRoomAlertWidget.3-638303640099963936"
 msgid "Waiting For:"
-msgstr ""
+msgstr "Очікує на:"
 
 #. Key: ExploreDungeonRoomAlertWidget.1-638361867543823398
 msgctxt "ExploreDungeonRoomAlertWidget.1-638361867543823398"
@@ -7287,12 +7291,12 @@ msgstr ""
 #. - enemyLevel
 msgctxt "ExploreDungeonRoomAlertWidget.0-638538057193434149"
 msgid "Start Battle - Enemy Level {0}"
-msgstr ""
+msgstr "Почати бій - рівень небезпеки {0}"
 
 #. Key: ExploreDungeonRoomAlertWidget.1-638291698150767009
 msgctxt "ExploreDungeonRoomAlertWidget.1-638291698150767009"
 msgid "Cancel Explore"
-msgstr ""
+msgstr "Скасувати дослідження"
 
 #. Key: FilthFilterAlert.0-638321842051798002
 #. Args:
@@ -7390,20 +7394,20 @@ msgstr ""
 #. Key: IdleAlert.0-638300355135690375
 msgctxt "IdleAlert.0-638300355135690375"
 msgid "Idle Staff"
-msgstr ""
+msgstr "Працівник байдикує"
 
 #. Key: IdleAlert.1-638300355135690375
 #. Args:
 #. - count
 msgctxt "IdleAlert.1-638300355135690375"
 msgid "Idle Staff ({0})"
-msgstr ""
+msgstr "Працівник байдикує ({0})"
 
 #. Key: IdleAlert.2-638300355135690375
 msgctxt "IdleAlert.2-638300355135690375"
 msgid "Some Staff are Idle:\n"
 "    "
-msgstr ""
+msgstr "Дехто з працівників байдикує:"
 
 #. Key: IdleAlert.3-638300355135690375
 msgctxt "IdleAlert.3-638300355135690375"
@@ -7415,20 +7419,21 @@ msgstr ""
 #. Key: IdleStudentAlert.0-638300355135705395
 msgctxt "IdleStudentAlert.0-638300355135705395"
 msgid "Idle Student"
-msgstr ""
+msgstr "Студенти байдикують"
 
 #. Key: IdleStudentAlert.1-638300355135705395
 #. Args:
 #. - count
 msgctxt "IdleStudentAlert.1-638300355135705395"
 msgid "Idle Students ({0})"
-msgstr ""
+msgstr "Студенти байдикують ({0})"
 
 #. Key: IdleStudentAlert.2-638300355135705395
 msgctxt "IdleStudentAlert.2-638300355135705395"
 msgid "Some Students are Idle:\n"
 "    "
-msgstr ""
+msgstr "Деякі студенти байдикують:\n"
+"    "
 
 #. Key: IdleStudentAlert.3-638300355135705395
 msgctxt "IdleStudentAlert.3-638300355135705395"
@@ -7553,7 +7558,8 @@ msgstr ""
 msgctxt "LuxuryFilterAlert.2-638321842051863638"
 msgid "{0}\n"
 "  Luxury: {1}"
-msgstr ""
+msgstr "{0}\n"
+"  Розкіш: {1}"
 
 #. Key: MineAlert.0-638167308787916795
 #. Args:
@@ -7561,20 +7567,21 @@ msgstr ""
 #. - EntityUtils.GetDisplayName(errand.Entity)
 msgctxt "MineAlert.0-638167308787916795"
 msgid "{0} {1} at Night"
-msgstr ""
+msgstr "{0} {1} вночі"
 
 #. Key: MonsterInSchoolAlert.0-638379728723977020
 msgctxt "MonsterInSchoolAlert.0-638379728723977020"
 msgid "In School: \n"
 "  "
-msgstr ""
+msgstr "В школі: \n"
+"  "
 
 #. Key: MonsterInSchoolAlert.1-638379728723977020
 #. Args:
 #. - Model.Format.DisplayName(group.Key)
 msgctxt "MonsterInSchoolAlert.1-638379728723977020"
 msgid "{0} in school."
-msgstr ""
+msgstr "{0} в школі."
 
 #. Key: MonsterInSchoolAlert.2-638379728723977020
 #. Args:
@@ -7582,7 +7589,7 @@ msgstr ""
 #. - group.Count()
 msgctxt "MonsterInSchoolAlert.2-638379728723977020"
 msgid "{0} in school. ({1})"
-msgstr ""
+msgstr "{0} в школі. ({1})"
 
 #. Key: MoveAssembledInProcessAlert.0-638321842051873702
 #. Args:
@@ -7678,17 +7685,17 @@ msgstr ""
 #. Key: NightmareAlert.0-638321842051899200
 msgctxt "NightmareAlert.0-638321842051899200"
 msgid "Nightmare"
-msgstr ""
+msgstr "Нічний жах"
 
 #. Key: NightmareAlert.1-638321842051899200
 msgctxt "NightmareAlert.1-638321842051899200"
 msgid "Nightmare!"
-msgstr ""
+msgstr "Нічний жах!"
 
 #. Key: NoClassesAlert.0-638321842051899200
 msgctxt "NoClassesAlert.0-638321842051899200"
 msgid "No classes available for students"
-msgstr ""
+msgstr "Нема доступних класів для студентів"
 
 #. Key: NoClassesAlert.1-638321842051899200
 msgctxt "NoClassesAlert.1-638321842051899200"
@@ -7781,7 +7788,7 @@ msgstr ""
 #. Key: NoTeacherAlert.2-638321842051919322
 msgctxt "NoTeacherAlert.2-638321842051919322"
 msgid "Students need a teacher"
-msgstr ""
+msgstr "Студенти потребують вчителя"
 
 #. Key: NoTeacherAlert.3-638321842051919322
 #. Args:
@@ -7899,35 +7906,35 @@ msgstr "{0}: Пріорітет: Ніколи"
 #. - EntityUtils.GetDisplayName(priority.Entity)
 msgctxt "PriorityAlert.1-638322107133858238"
 msgid "{0}: Priority: 1"
-msgstr ""
+msgstr "{0}: Пріорітет: 1"
 
 #. Key: PriorityAlert.2-638322107133858238
 #. Args:
 #. - EntityUtils.GetDisplayName(priority.Entity)
 msgctxt "PriorityAlert.2-638322107133858238"
 msgid "{0}: Priority: 2"
-msgstr ""
+msgstr "{0}: Пріорітет: 2"
 
 #. Key: PriorityAlert.3-638322107133858238
 #. Args:
 #. - EntityUtils.GetDisplayName(priority.Entity)
 msgctxt "PriorityAlert.3-638322107133858238"
 msgid "{0}: Priority: 3"
-msgstr ""
+msgstr "{0}: Пріорітет: 3"
 
 #. Key: PriorityAlert.4-638322107133858238
 #. Args:
 #. - EntityUtils.GetDisplayName(priority.Entity)
 msgctxt "PriorityAlert.4-638322107133858238"
 msgid "{0}: Priority: 4"
-msgstr ""
+msgstr "{0}: Пріорітет: 4"
 
 #. Key: PriorityAlert.5-638322107133858238
 #. Args:
 #. - EntityUtils.GetDisplayName(priority.Entity)
 msgctxt "PriorityAlert.5-638322107133858238"
 msgid "{0}: Priority: 5"
-msgstr ""
+msgstr "{0}: Пріорітет: 5"
 
 #. Key: RefineryNeedAlert.0-638322107133873287
 #. Args:
@@ -7997,7 +8004,7 @@ msgstr ""
 #. Key: ResearchAlert.0-638322107133895616
 msgctxt "ResearchAlert.0-638322107133895616"
 msgid "No Research Selected"
-msgstr ""
+msgstr "Дослідження не обрано"
 
 #. Key: ResearchAlert.1-638322107133895616
 #. Args:
@@ -8041,7 +8048,7 @@ msgstr "{0} ритуал не може початись."
 #. - ritualSite.Config.ButtonName
 msgctxt "RitualSiteAlert.1-638352274911976576"
 msgid "Preparing for {0}."
-msgstr ""
+msgstr "Підготовка до {0}."
 
 #. Key: RitualSiteAlert.1-638336787401584394
 #. Args:
@@ -8053,7 +8060,7 @@ msgstr ""
 #. Key: RitualWaitingAlert.0-638326434598859780
 msgctxt "RitualWaitingAlert.0-638326434598859780"
 msgid "Ritual cannot begin:\n"
-msgstr ""
+msgstr "Ритуал не може початись:\n"
 
 #. Key: RitualWaitingAlert.0-638330719635285862
 #. Args:
@@ -8080,7 +8087,7 @@ msgstr ""
 #. Key: RitualWaitingAlert.1-638333251363750444
 msgctxt "RitualWaitingAlert.1-638333251363750444"
 msgid "Waiting for ingredients."
-msgstr ""
+msgstr "Очікує інгредієнтів"
 
 #. Key: RitualWaitingAlert.2-638333251363750444
 #. Args:
@@ -8147,12 +8154,12 @@ msgstr ""
 #. Key: RoomBattleAlertWidget.9-638345097620489557
 msgctxt "RoomBattleAlertWidget.9-638345097620489557"
 msgid "Waiting For:"
-msgstr ""
+msgstr "Очікує на:"
 
 #. Key: RoomBattleAlertWidget.1-638435900843269622
 msgctxt "RoomBattleAlertWidget.1-638435900843269622"
 msgid "<b><size=+10>Enemies</size></b>"
-msgstr ""
+msgstr "<b><size=+10>Вороги</size></b>"
 
 #. Key: RoomBattleAlertWidget.2-638435900843269622
 #. Args:
@@ -8164,19 +8171,19 @@ msgstr ""
 #. Key: RoomBattleAlertWidget.3-638435900843269622
 msgctxt "RoomBattleAlertWidget.3-638435900843269622"
 msgid "<b><size=+10>Rewards</size></b>"
-msgstr ""
+msgstr "<b><size=+10>Нагорода</size></b>"
 
 #. Key: RoomBattleAlertWidget.0-638538057193640356
 #. Args:
 #. - _aboveGroundBattle.Config.Difficulty
 msgctxt "RoomBattleAlertWidget.0-638538057193640356"
 msgid "Start Battle - Enemy Level {0}"
-msgstr ""
+msgstr "Почати бій - рівень небезпеки {0}"
 
 #. Key: RoomBattleAlertWidget.10-638345097620489557
 msgctxt "RoomBattleAlertWidget.10-638345097620489557"
 msgid "Cancel Explore"
-msgstr ""
+msgstr "Скасувати дослідження"
 
 #. Key: SleepWithEmergencyPriorityAlert.0-638322139277882244
 #. Args:
@@ -8188,7 +8195,7 @@ msgstr ""
 #. Key: SleepWithEmergencyPriorityAlert.1-638322139277882244
 msgctxt "SleepWithEmergencyPriorityAlert.1-638322139277882244"
 msgid "Sleep"
-msgstr ""
+msgstr "Спати"
 
 #. Key: SleepWithEmergencyPriorityAlert.2-638322139277882244
 msgctxt "SleepWithEmergencyPriorityAlert.2-638322139277882244"
@@ -8251,7 +8258,7 @@ msgstr ""
 #. - EntityUtils.GetDisplayName(errand.Entity)
 msgctxt "UprootAlert.0-638322107133955859"
 msgid "Destroy {0}"
-msgstr ""
+msgstr "Знищити {0}"
 
 #. Key: OnDiscoveredLike.0-638525885279465501
 msgctxt "OnDiscoveredLike.0-638525885279465501"
@@ -8283,7 +8290,7 @@ msgstr ""
 #. Key: OnGameOver.0-638328064223304387
 msgctxt "OnGameOver.0-638328064223304387"
 msgid "Game Over"
-msgstr ""
+msgstr "Гру програно"
 
 #. Key: OnGameOver.1-638328064223304387
 msgctxt "OnGameOver.1-638328064223304387"
@@ -8293,19 +8300,19 @@ msgstr ""
 #. Key: OnGameOver.2-638328064223304387
 msgctxt "OnGameOver.2-638328064223304387"
 msgid "Main Menu"
-msgstr ""
+msgstr "Головне меню"
 
 #. Key: OnLevelUp.0-638525885279510571
 #. Args:
 #. - characterLevel.Level
 msgctxt "OnLevelUp.0-638525885279510571"
 msgid "Level {0}"
-msgstr ""
+msgstr "Рівень {0}"
 
 #. Key: OnLevelUp.1-638525885279510571
 msgctxt "OnLevelUp.1-638525885279510571"
 msgid "Level Up!"
-msgstr ""
+msgstr "Рівень піднято!"
 
 #. Key: OnMiddenHeapHarvested.0-638328064223334394
 #. Args:
@@ -8319,7 +8326,7 @@ msgstr "Зібрано {0}"
 #. - EntityUtils.GetDisplayName(entityGeneratedGO.Entity)
 msgctxt "OnPoweredComponentGeneratedEntity.0-638328064223355241"
 msgid "Generated {0}"
-msgstr ""
+msgstr "Згенеровано  {0}"
 
 #. Key: OnScheduleEventActiveStateChange.0-638328064223385247
 msgctxt "OnScheduleEventActiveStateChange.0-638328064223385247"
@@ -8349,28 +8356,28 @@ msgstr ""
 #. Key: OnShowDrops.0-638435900843719623
 msgctxt "OnShowDrops.0-638435900843719623"
 msgid "Spell Misfire"
-msgstr ""
+msgstr "Закляття промазало"
 
 #. Key: OnShowDrops.0-638328064223395251
 #. Args:
 #. - defId.GetDefinition().DisplayName
 msgctxt "OnShowDrops.0-638328064223395251"
 msgid "Discovered {0}"
-msgstr ""
+msgstr "Досліджено {0}"
 
 #. Key: OnSkillsChange.0-638328064223405402
 #. Args:
 #. - Model.Format.Skill(skillDef.Skill)
 msgctxt "OnSkillsChange.0-638328064223405402"
 msgid "{0} <#00FFFF>Skill Up!</color>"
-msgstr ""
+msgstr "{0} <#00FFFF>Рівень навички піднято!</color>"
 
 #. Key: OnSkillsChange.1-638328064223405402
 #. Args:
 #. - Model.Format.Skill(skillDef.Skill)
 msgctxt "OnSkillsChange.1-638328064223405402"
 msgid "{0} <#00FFFF>Skill Up!</color>"
-msgstr ""
+msgstr "{0} <#00FFFF>Рівень навички піднято!</color>"
 
 #. Key: OnSkillsChange.2-638328064223405402
 #. Args:
@@ -8378,7 +8385,7 @@ msgstr ""
 #. - curLevel
 msgctxt "OnSkillsChange.2-638328064223405402"
 msgid "{0} {1} Complete!"
-msgstr ""
+msgstr "{0} {1} Готово!"
 
 #. Key: OnSkillsChange.3-638328064223405402
 #. Args:
@@ -8417,33 +8424,33 @@ msgstr ""
 #. - characterLevel.Level
 msgctxt "OnSkillsChange.0-638525885279610714"
 msgid "Level {0}"
-msgstr ""
+msgstr "Рівень {0}"
 
 #. Key: OnSkillsChange.1-638525885279610714
 msgctxt "OnSkillsChange.1-638525885279610714"
 msgid "Level Up!"
-msgstr ""
+msgstr "Рівень піднято!"
 
 #. Key: OnStaffQuit.0-638328064223415478
 #. Args:
 #. - EntityUtils.GetDisplayName(entity)
 msgctxt "OnStaffQuit.0-638328064223415478"
 msgid "{0} quit!"
-msgstr ""
+msgstr "{0} вийти!"
 
 #. Key: OnWorkComplete.0-638328064223425893
 #. Args:
 #. - name
 msgctxt "OnWorkComplete.0-638328064223425893"
 msgid "{0} Complete"
-msgstr ""
+msgstr "{0} Готово"
 
 #. Key: OnXPGained.0-638328064223425893
 #. Args:
 #. - amount
 msgctxt "OnXPGained.0-638328064223425893"
 msgid "+{0} XP"
-msgstr ""
+msgstr "+{0} XP"
 
 #. Key: MageUpdateBackCompatScreen.0-638538996275450690
 msgctxt "MageUpdateBackCompatScreen.0-638538996275450690"
@@ -8500,12 +8507,12 @@ msgstr ""
 #. Key: MageUpdateBackCompatScreen.10-638538996275450690
 msgctxt "MageUpdateBackCompatScreen.10-638538996275450690"
 msgid "Trials"
-msgstr ""
+msgstr "Виклики"
 
 #. Key: MageUpdateBackCompatScreen.11-638538996275450690
 msgctxt "MageUpdateBackCompatScreen.11-638538996275450690"
 msgid "Relics"
-msgstr ""
+msgstr "Реліквії"
 
 #. Key: ApprenticeUpdateNoticeScreen.0-638539730231237400
 msgctxt "ApprenticeUpdateNoticeScreen.0-638539730231237400"
@@ -8822,17 +8829,17 @@ msgstr ""
 #. Key: VictoryDefeatWidget.1-638306300605163799
 msgctxt "VictoryDefeatWidget.1-638306300605163799"
 msgid "Continue"
-msgstr ""
+msgstr "Продовжити"
 
 #. Key: VictoryDefeatWidget.2-638306300605163799
 msgctxt "VictoryDefeatWidget.2-638306300605163799"
 msgid "Defeat!"
-msgstr ""
+msgstr "Програно!"
 
 #. Key: VictoryDefeatWidget.3-638306300605163799
 msgctxt "VictoryDefeatWidget.3-638306300605163799"
 msgid "Victory"
-msgstr ""
+msgstr "Перемога!"
 
 #. Key: ChallengeSelectEntryWidget.0-638445593339726876
 msgctxt "ChallengeSelectEntryWidget.0-638445593339726876"
@@ -8842,7 +8849,7 @@ msgstr ""
 #. Key: ChallengeSelectScreen.0-638445593339736879
 msgctxt "ChallengeSelectScreen.0-638445593339736879"
 msgid "Select Challenge"
-msgstr ""
+msgstr "Вибрати виклик"
 
 #. Key: ChallengeSelectScreen.0-638463705599347980
 msgctxt "ChallengeSelectScreen.0-638463705599347980"
@@ -8852,7 +8859,7 @@ msgstr ""
 #. Key: ChallengeSelectScreen.1-638463705599347980
 msgctxt "ChallengeSelectScreen.1-638463705599347980"
 msgid "Difficulty - Step 2"
-msgstr ""
+msgstr "Складність - 2 крок"
 
 #. Key: FinalizeNewGameScreen.0-638385721736500907
 msgctxt "FinalizeNewGameScreen.0-638385721736500907"
@@ -8872,12 +8879,12 @@ msgstr ""
 #. Key: FinalizeNewGameScreen.0-638357407848743458
 msgctxt "FinalizeNewGameScreen.0-638357407848743458"
 msgid "Next"
-msgstr ""
+msgstr "Далі"
 
 #. Key: ChallengeSelectScreen.3-638445593339746879
 msgctxt "ChallengeSelectScreen.3-638445593339746879"
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 #. Key: DifficultyOptionsResearchWidget.0-638448868227152193
 msgctxt "DifficultyOptionsResearchWidget.0-638448868227152193"
@@ -8917,12 +8924,12 @@ msgstr ""
 #. Key: DifficultySettingsScreen.6-638445593340115455
 msgctxt "DifficultySettingsScreen.6-638445593340115455"
 msgid "Starting Research"
-msgstr ""
+msgstr "Почати дослідження"
 
 #. Key: DifficultySettingsScreen.4-638445593340105456
 msgctxt "DifficultySettingsScreen.4-638445593340105456"
 msgid "The Fog"
-msgstr ""
+msgstr "Туман"
 
 #. Key: DifficultySettingsScreen.7-638445593340115455
 msgctxt "DifficultySettingsScreen.7-638445593340115455"
@@ -8947,12 +8954,12 @@ msgstr ""
 #. Key: DifficultySettingsScreen.11-638445593340115455
 msgctxt "DifficultySettingsScreen.11-638445593340115455"
 msgid "OK"
-msgstr ""
+msgstr "Ок"
 
 #. Key: AccordionCategoryWidget.0-638330497790379751
 msgctxt "AccordionCategoryWidget.0-638330497790379751"
 msgid "Category"
-msgstr ""
+msgstr "Категорія"
 
 #. Key: NeedBarWidget.0-638150813292499951
 msgctxt "NeedBarWidget.0-638150813292499951"
@@ -9081,39 +9088,39 @@ msgstr ""
 #. - xpAmt
 msgctxt "BadgeIcon.0-638525885280673570"
 msgid "{0} XP"
-msgstr ""
+msgstr "{0} XP"
 
 #. Key: BadgeIcon.0-638403284189203658
 msgctxt "BadgeIcon.0-638403284189203658"
 msgid "Completed:"
-msgstr ""
+msgstr "Завершено:"
 
 #. Key: BadgeIcon.0-638525889019713151
 #. Args:
 #. - xpAmt
 msgctxt "BadgeIcon.0-638525889019713151"
 msgid "{0} XP"
-msgstr ""
+msgstr "{0} XP"
 
 #. Key: BadgeIcon.1-638525889019723152
 msgctxt "BadgeIcon.1-638525889019723152"
 msgid "Completed:"
-msgstr ""
+msgstr "Завершено:"
 
 #. Key: BadgesWidget.0-638301172111807005
 msgctxt "BadgesWidget.0-638301172111807005"
 msgid "Heart"
-msgstr ""
+msgstr "Серце"
 
 #. Key: BadgesWidget.1-638301172111807005
 msgctxt "BadgesWidget.1-638301172111807005"
 msgid "Spirit"
-msgstr ""
+msgstr "Дух"
 
 #. Key: BadgesWidget.2-638301172111807005
 msgctxt "BadgesWidget.2-638301172111807005"
 msgid "Wisdom"
-msgstr ""
+msgstr "Мудрість"
 
 #. Key: BadgesWidget.3-638301172111807005
 msgctxt "BadgesWidget.3-638301172111807005"
@@ -9363,7 +9370,7 @@ msgstr ""
 #. Key: HUDFilter_RoomType.0-638336722417446885
 msgctxt "HUDFilter_RoomType.0-638336722417446885"
 msgid " OR"
-msgstr ""
+msgstr "АБО"
 
 #. Key: HUDFilter_RoomType.13-638326348617426552
 #. Args:
@@ -9382,7 +9389,7 @@ msgstr ""
 #. Key: HUDFilter_RoomType.0-638334758545877628
 msgctxt "HUDFilter_RoomType.0-638334758545877628"
 msgid "Luxury"
-msgstr ""
+msgstr "Розкіш"
 
 #. Key: HUDFilter_RoomType.1-638334758545877628
 msgctxt "HUDFilter_RoomType.1-638334758545877628"
@@ -10022,7 +10029,7 @@ msgstr ""
 #. Key: SchoolStartWindowEntry.0-638525885281059377
 msgctxt "SchoolStartWindowEntry.0-638525885281059377"
 msgid "Unknown <slink=Quirk>"
-msgstr ""
+msgstr "Невідома <slink=Quirk>"
 
 #. Key: SaveScreenUtils.0-637908904683628382
 msgctxt "SaveScreenUtils.0-637908904683628382"
@@ -10091,7 +10098,7 @@ msgstr ""
 #. Key: SaveScreenUtils.10-637908904683638374
 msgctxt "SaveScreenUtils.10-637908904683638374"
 msgid "Save Name"
-msgstr ""
+msgstr "Зберегти ім'я"
 
 #. Key: SaveScreenUtils.11-637908904683638374
 msgctxt "SaveScreenUtils.11-637908904683638374"
@@ -10125,12 +10132,12 @@ msgstr ""
 #. Key: SaveSlotsWidget.0-638332372939784740
 msgctxt "SaveSlotsWidget.0-638332372939784740"
 msgid "Save Slots"
-msgstr ""
+msgstr "Зберегти слоти"
 
 #. Key: SaveSlotsWidget.1-638332372939784740
 msgctxt "SaveSlotsWidget.1-638332372939784740"
 msgid "New Save"
-msgstr ""
+msgstr "Нове збереження"
 
 #. Key: SettingsWindowOptions.0-638332372939804428
 msgctxt "SettingsWindowOptions.0-638332372939804428"
@@ -10231,7 +10238,7 @@ msgstr ""
 #. Key: SettingsWindowOptions_Controls.2-638421278416767106
 msgctxt "SettingsWindowOptions_Controls.2-638421278416767106"
 msgid "Category"
-msgstr ""
+msgstr "Категорія"
 
 #. Key: SettingsWindowOptions_Controls.3-638421278416767106
 msgctxt "SettingsWindowOptions_Controls.3-638421278416767106"
@@ -10931,7 +10938,7 @@ msgstr ""
 #. Key: MagePromotionWidget.2-638525885281591503
 msgctxt "MagePromotionWidget.2-638525885281591503"
 msgid "Staff"
-msgstr ""
+msgstr "Працівник"
 
 #. Key: MagePromotionWidget.0-638539730233924113
 msgctxt "MagePromotionWidget.0-638539730233924113"
@@ -10958,22 +10965,22 @@ msgstr ""
 #. Key: MageSpellsWidget.0-638532985345744215
 msgctxt "MageSpellsWidget.0-638532985345744215"
 msgid "COMBAT SPELLS"
-msgstr ""
+msgstr "БОЙОВІ ЗАКЛИНАННЯ"
 
 #. Key: QuirksWidget.0-638532985345764045
 msgctxt "QuirksWidget.0-638532985345764045"
 msgid "QUIRKS"
-msgstr ""
+msgstr "ПРИМХИ"
 
 #. Key: LikesWidget.1-638525885281536447
 msgctxt "LikesWidget.1-638525885281536447"
 msgid "Unknown Positive <slink=Quirk>"
-msgstr ""
+msgstr "Невідома позитивна <slink=Quirk>"
 
 #. Key: QuirksWidget.0-638539730092897976
 msgctxt "QuirksWidget.0-638539730092897976"
 msgid "Unknown Negative <slink=Quirk>"
-msgstr ""
+msgstr "Невідома негативна <slink=Quirk>"
 
 #. Key: StatsWidgetEntry.0-638525885281616581
 #. Args:
@@ -10985,7 +10992,7 @@ msgstr ""
 #. Key: TrialsWidget.0-638532985345784074
 msgctxt "TrialsWidget.0-638532985345784074"
 msgid "TRIALS"
-msgstr ""
+msgstr "Випробовування"
 
 #. Key: TrialsWidget.0-638537861639678478
 msgctxt "TrialsWidget.0-638537861639678478"
@@ -12583,7 +12590,7 @@ msgstr "Готово"
 #. Key: GroupMultiEditSelectWidget.2-638487000348520331
 msgctxt "GroupMultiEditSelectWidget.2-638487000348520331"
 msgid "Selected Trials:"
-msgstr ""
+msgstr "Вибрати виклики:"
 
 #. Key: GroupMultiEditSelectWidget.3-638487000348520331
 msgctxt "GroupMultiEditSelectWidget.3-638487000348520331"
@@ -12623,7 +12630,7 @@ msgstr "Вибрати фракції"
 #. Key: GroupMultiEditSelectWidget.10-638487000348520331
 msgctxt "GroupMultiEditSelectWidget.10-638487000348520331"
 msgid "Select Trials"
-msgstr ""
+msgstr "Вибрати виклики"
 
 #. Key: GroupMultiEditSelectWidget.11-638487000348520331
 msgctxt "GroupMultiEditSelectWidget.11-638487000348520331"
