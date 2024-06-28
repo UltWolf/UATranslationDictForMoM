@@ -98,7 +98,7 @@ msgstr "Не може досягти туману, щоб втекти"
 #. - globalEvent.Config.DivinationText
 msgctxt "Format.0-638334084158625375"
 msgid "Nightmare: {0}"
-msgstr "Кошмар: {0}"
+msgstr "Жах: {0}"
 
 #. Key: Format.0-638525885269635566
 msgctxt "Format.0-638525885269635566"
@@ -245,7 +245,7 @@ msgstr "Низхідна спіраль"
 #. - EntityUtils.GetDisplayName(_errand.Entity)
 msgctxt "BuildableBehavior.0-638359255627864754"
 msgid "Building {0}"
-msgstr "Будівництво {0}"
+msgstr "Будую {0}"
 
 #. Key: ButlerBehavior.0-638359255627864754
 msgctxt "ButlerBehavior.0-638359255627864754"
@@ -1019,7 +1019,7 @@ msgstr "Заявив: "
 #. Key: ConstructionBlockComponent.0-638310744738896091
 msgctxt "ConstructionBlockComponent.0-638310744738896091"
 msgid "UNSUPPORTED"
-msgstr "Не підтримується :("
+msgstr "Не підтримується "
 
 #. Key: ConstructionBlockComponent.1-638310744738896091
 msgctxt "ConstructionBlockComponent.1-638310744738896091"
@@ -5269,7 +5269,7 @@ msgstr ""
 #. Key: LocKeyCodeLookup.5-638404054163034027
 msgctxt "LocKeyCodeLookup.5-638404054163034027"
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 #. Key: LocKeyCodeLookup.6-638404054163034027
 msgctxt "LocKeyCodeLookup.6-638404054163034027"
@@ -5279,17 +5279,17 @@ msgstr ""
 #. Key: LocKeyCodeLookup.7-638404054163034027
 msgctxt "LocKeyCodeLookup.7-638404054163034027"
 msgid "Clear"
-msgstr ""
+msgstr "Очистити"
 
 #. Key: LocKeyCodeLookup.8-638404054163034027
 msgctxt "LocKeyCodeLookup.8-638404054163034027"
 msgid "Return"
-msgstr ""
+msgstr "Повернутись"
 
 #. Key: LocKeyCodeLookup.9-638404054163034027
 msgctxt "LocKeyCodeLookup.9-638404054163034027"
 msgid "Pause"
-msgstr ""
+msgstr "Пауза"
 
 #. Key: LocKeyCodeLookup.10-638404054163034027
 msgctxt "LocKeyCodeLookup.10-638404054163034027"
@@ -5394,7 +5394,7 @@ msgstr ""
 #. Key: LocKeyCodeLookup.98-638404054163044070
 msgctxt "LocKeyCodeLookup.98-638404054163044070"
 msgid "Up"
-msgstr ""
+msgstr "Вверх"
 
 #. Key: LocKeyCodeLookup.99-638404054163044070
 msgctxt "LocKeyCodeLookup.99-638404054163044070"
@@ -5695,7 +5695,7 @@ msgstr ""
 #. - recipe.DisplayName
 msgctxt "GameTextLinkHandler.0-638328080320860163"
 msgid "Recipe: {0}"
-msgstr ""
+msgstr "Рецепт: {0}"
 
 #. Key: GameTextLinkHandler.11-638309805090591307
 #. Args:
@@ -6756,97 +6756,97 @@ msgstr ""
 #. Key: ViewGroupUtils.20-638487000345259661
 msgctxt "ViewGroupUtils.20-638487000345259661"
 msgid "All In"
-msgstr ""
+msgstr "Всі в"
 
 #. Key: ViewGroupUtils.21-638487000345259661
 msgctxt "ViewGroupUtils.21-638487000345259661"
 msgid "None In"
-msgstr ""
+msgstr "Ніхто в"
 
 #. Key: ViewGroupUtils.22-638487000345259661
 msgctxt "ViewGroupUtils.22-638487000345259661"
 msgid "Any"
-msgstr ""
+msgstr "Будь-хто"
 
 #. Key: ViewGroupUtils.23-638487000345259661
 msgctxt "ViewGroupUtils.23-638487000345259661"
 msgid "All"
-msgstr ""
+msgstr "Всі"
 
 #. Key: ViewGroupUtils.24-638487000345259661
 msgctxt "ViewGroupUtils.24-638487000345259661"
 msgid "None"
-msgstr ""
+msgstr "Ніхто"
 
 #. Key: ViewGroupUtils.25-638487000345259661
 msgctxt "ViewGroupUtils.25-638487000345259661"
 msgid "In"
-msgstr ""
+msgstr "В"
 
 #. Key: ViewGroupUtils.26-638487000345259661
 msgctxt "ViewGroupUtils.26-638487000345259661"
 msgid "Not In"
-msgstr ""
+msgstr "Не в"
 
 #. Key: ViewGroupUtils.2-638532654750983652
 msgctxt "ViewGroupUtils.2-638532654750983652"
 msgid "In"
-msgstr ""
+msgstr "В"
 
 #. Key: ViewGroupUtils.3-638532654750983652
 msgctxt "ViewGroupUtils.3-638532654750983652"
-msgid "Not in"
-msgstr ""
+msgid "Not In"
+msgstr "Не в"
 
 #. Key: ViewGroupUtils.4-638532654750983652
 msgctxt "ViewGroupUtils.4-638532654750983652"
 msgid "In"
-msgstr ""
+msgstr "В"
 
 #. Key: ViewGroupUtils.5-638532654750983652
 msgctxt "ViewGroupUtils.5-638532654750983652"
 msgid "Not In"
-msgstr ""
+msgstr "Не в"
 
 #. Key: ViewGroupUtils.27-638487000345259661
 msgctxt "ViewGroupUtils.27-638487000345259661"
 msgid "In"
-msgstr ""
+msgstr "В"
 
 #. Key: ViewGroupUtils.28-638487000345259661
 msgctxt "ViewGroupUtils.28-638487000345259661"
 msgid "Not In"
-msgstr ""
+msgstr "Не в"
 
 #. Key: ViewGroupUtils.29-638487000345259661
 msgctxt "ViewGroupUtils.29-638487000345259661"
 msgid "In"
-msgstr ""
+msgstr "В"
 
 #. Key: ViewGroupUtils.30-638487000345259661
 msgctxt "ViewGroupUtils.30-638487000345259661"
 msgid "Not In"
-msgstr ""
+msgstr "Не в"
 
 #. Key: ViewGroupUtils.31-638487000345259661
 msgctxt "ViewGroupUtils.31-638487000345259661"
 msgid "In"
-msgstr ""
+msgstr "В"
 
 #. Key: ViewGroupUtils.32-638487000345259661
 msgctxt "ViewGroupUtils.32-638487000345259661"
 msgid "Not In"
-msgstr ""
+msgstr "Не в"
 
 #. Key: ViewGroupUtils.33-638487000345259661
 msgctxt "ViewGroupUtils.33-638487000345259661"
 msgid "In"
-msgstr ""
+msgstr "В"
 
 #. Key: ViewGroupUtils.34-638487000345259661
 msgctxt "ViewGroupUtils.34-638487000345259661"
 msgid "Not In"
-msgstr ""
+msgstr "Не в"
 
 #. Key: ViewGroupUtils.35-638487000345259661
 msgctxt "ViewGroupUtils.35-638487000345259661"
@@ -6881,12 +6881,12 @@ msgstr ""
 #. Key: ViewGroupUtils.41-638487000345259661
 msgctxt "ViewGroupUtils.41-638487000345259661"
 msgid "In"
-msgstr ""
+msgstr "В"
 
 #. Key: ViewGroupUtils.42-638487000345259661
 msgctxt "ViewGroupUtils.42-638487000345259661"
 msgid "Not In"
-msgstr ""
+msgstr "Не в"
 
 #. Key: ViewResearchUtils.0-638435900842601622
 #. Args:
@@ -8797,34 +8797,34 @@ msgstr ""
 #. - Model.Format.Skill(skillEvent.Skill)
 msgctxt "VictoryDefeatMageEntry.6-638539730231413697"
 msgid "{0} Up"
-msgstr ""
+msgstr "{0} Вверх"
 
 #. Key: VictoryDefeatMageEntry.0-638543354540333027
 msgctxt "VictoryDefeatMageEntry.0-638543354540333027"
 msgid "Up"
-msgstr ""
+msgstr "Вверх"
 
 #. Key: VictoryDefeatRewardEntry.0-638352274912830855
 #. Args:
 #. - Model.Format.Link(_trappedCharacter.Entity)
 msgctxt "VictoryDefeatRewardEntry.0-638352274912830855"
 msgid "{0}"
-msgstr ""
+msgstr "{0}"
 
 #. Key: VictoryDefeatRewardEntry.1-638352274912830855
 msgctxt "VictoryDefeatRewardEntry.1-638352274912830855"
 msgid "Cursed Staff"
-msgstr ""
+msgstr "Проклятий працівник"
 
 #. Key: VictoryDefeatRewardEntry.2-638352274912830855
 msgctxt "VictoryDefeatRewardEntry.2-638352274912830855"
 msgid "Cursed Initiate"
-msgstr ""
+msgstr "Проклятий початківець"
 
 #. Key: VictoryDefeatRewardEntry.3-638352274912830855
 msgctxt "VictoryDefeatRewardEntry.3-638352274912830855"
 msgid "Cursed Mage"
-msgstr ""
+msgstr "Проклятий чарівник"
 
 #. Key: VictoryDefeatWidget.1-638306300605163799
 msgctxt "VictoryDefeatWidget.1-638306300605163799"
@@ -8914,7 +8914,7 @@ msgstr ""
 #. Key: DifficultySettingsScreen.3-638445593340105456
 msgctxt "DifficultySettingsScreen.3-638445593340105456"
 msgid "General"
-msgstr ""
+msgstr "Головне"
 
 #. Key: DifficultySettingsScreen.5-638445593340105456
 msgctxt "DifficultySettingsScreen.5-638445593340105456"
@@ -8944,7 +8944,7 @@ msgstr ""
 #. Key: DifficultySettingsScreen.9-638445593340115455
 msgctxt "DifficultySettingsScreen.9-638445593340115455"
 msgid "Are you sure?"
-msgstr ""
+msgstr "Ви впевнені?"
 
 #. Key: DifficultySettingsScreen.10-638445593340115455
 msgctxt "DifficultySettingsScreen.10-638445593340115455"
@@ -8998,7 +8998,8 @@ msgstr ""
 msgctxt "NeedWidget.0-638330497790434848"
 msgid "\n"
 "Value: {0}/{1}"
-msgstr ""
+msgstr "\n"
+"Значення: {0}/{1}"
 
 #. Key: NeedWidget.1-638330497790434848
 #. Args:
@@ -9042,7 +9043,8 @@ msgstr ""
 msgctxt "NeedWidget.5-638330497790434848"
 msgid "\n"
 "Value: {0}/{1}"
-msgstr ""
+msgstr "\n"
+"Значення: {0}/{1}"
 
 #. Key: NeedWidget.6-638330497790434848
 #. Args:
@@ -9281,42 +9283,42 @@ msgstr ""
 #. - diff
 msgctxt "HUDFilter_RoomType.1-638326348617426552"
 msgid "Remove {0}"
-msgstr ""
+msgstr "Прибрати  {0}"
 
 #. Key: HUDFilter_RoomType.2-638326348617426552
 #. Args:
 #. - diff
 msgctxt "HUDFilter_RoomType.2-638326348617426552"
 msgid "Add {0}"
-msgstr ""
+msgstr "Додати {0}"
 
 #. Key: HUDFilter_RoomType.3-638326348617426552
 #. Args:
 #. - diff
 msgctxt "HUDFilter_RoomType.3-638326348617426552"
 msgid "Add {0}"
-msgstr ""
+msgstr "Додати {0}"
 
 #. Key: HUDFilter_RoomType.4-638326348617426552
 #. Args:
 #. - diff
 msgctxt "HUDFilter_RoomType.4-638326348617426552"
 msgid "Remove {0}"
-msgstr ""
+msgstr "Прибрати  {0}"
 
 #. Key: HUDFilter_RoomType.5-638326348617426552
 #. Args:
 #. - diff + 1
 msgctxt "HUDFilter_RoomType.5-638326348617426552"
 msgid "Remove {0}"
-msgstr ""
+msgstr "Прибрати  {0}"
 
 #. Key: HUDFilter_RoomType.6-638326348617426552
 #. Args:
 #. - diff
 msgctxt "HUDFilter_RoomType.6-638326348617426552"
 msgid "Add {0}"
-msgstr ""
+msgstr "Додати {0}"
 
 #. Key: HUDFilter_RoomType.7-638326348617426552
 #. Args:
@@ -9324,7 +9326,7 @@ msgstr ""
 #. - diff
 msgctxt "HUDFilter_RoomType.7-638326348617426552"
 msgid "Decrease {0} by {1}"
-msgstr ""
+msgstr "Зменшити  {0} на {1}"
 
 #. Key: HUDFilter_RoomType.8-638326348617426552
 #. Args:
@@ -9332,7 +9334,7 @@ msgstr ""
 #. - diff
 msgctxt "HUDFilter_RoomType.8-638326348617426552"
 msgid "Increase {0} by {1}"
-msgstr ""
+msgstr "Збільшити {0} на {1}"
 
 #. Key: HUDFilter_RoomType.9-638326348617426552
 #. Args:
@@ -9340,7 +9342,7 @@ msgstr ""
 #. - diff
 msgctxt "HUDFilter_RoomType.9-638326348617426552"
 msgid "Decrease {0} by {1}"
-msgstr ""
+msgstr "Зменшити  {0} на {1}"
 
 #. Key: HUDFilter_RoomType.10-638326348617426552
 #. Args:
@@ -9348,7 +9350,7 @@ msgstr ""
 #. - diff
 msgctxt "HUDFilter_RoomType.10-638326348617426552"
 msgid "Increase {0} by {1}"
-msgstr ""
+msgstr "Збільшити {0} на {1}"
 
 #. Key: HUDFilter_RoomType.11-638326348617426552
 #. Args:
@@ -9419,7 +9421,7 @@ msgstr ""
 #. Key: HUDPanel_BuildPalette_Selection_Button.0-638331491639668488
 msgctxt "HUDPanel_BuildPalette_Selection_Button.0-638331491639668488"
 msgid "NEW"
-msgstr ""
+msgstr "Нове"
 
 #. Key: HUDPanel_BuildPalette_Selection.0-638173228694384554
 msgctxt "HUDPanel_BuildPalette_Selection.0-638173228694384554"
@@ -9444,7 +9446,7 @@ msgstr ""
 #. Key: HUDPanel_Filters.0-638181044002140017
 msgctxt "HUDPanel_Filters.0-638181044002140017"
 msgid "Views"
-msgstr "Вигляди"
+msgstr "Режими"
 
 #. Key: HUDPanel_TimeControl.0-638331491639741470
 #. Args:
@@ -9456,28 +9458,28 @@ msgstr ""
 #. Key: HUDPanel_TimeControl.0-638170763865078554
 msgctxt "HUDPanel_TimeControl.0-638170763865078554"
 msgid ".1x Speed"
-msgstr ""
+msgstr ".1x Швидкість"
 
 #. Key: HUDPanel_TimeControl.1-638170763865078554
 #. Args:
 #. - Format.Hotkeys("Cycle_Speed", "Speed_Slower")
 msgctxt "HUDPanel_TimeControl.1-638170763865078554"
 msgid "1x Speed {0}"
-msgstr ""
+msgstr "1x Швидкість {0}"
 
 #. Key: HUDPanel_TimeControl.2-638170763865078554
 #. Args:
 #. - Format.Hotkeys("Speed_Slower", "Speed_Faster")
 msgctxt "HUDPanel_TimeControl.2-638170763865078554"
 msgid "2x Speed {0}"
-msgstr ""
+msgstr "2x Швидкість {0}"
 
 #. Key: HUDPanel_TimeControl.3-638170763865078554
 #. Args:
 #. - Format.Hotkeys("Cycle_Speed", "Speed_Faster")
 msgctxt "HUDPanel_TimeControl.3-638170763865078554"
 msgid "3x Speed {0}"
-msgstr ""
+msgstr "3x Швидкість {0}"
 
 #. Key: HUDPanel_TimeControl.4-638170763865078554
 msgctxt "HUDPanel_TimeControl.4-638170763865078554"
@@ -9499,12 +9501,12 @@ msgstr ""
 #. Key: HUDPanel_TimeControl.0-638445593340524580
 msgctxt "HUDPanel_TimeControl.0-638445593340524580"
 msgid "Iron Mage - No Saves Allowed"
-msgstr ""
+msgstr "Залізний маг - ніякі збереження не дозволені"
 
 #. Key: HUDPanel_TimeControl.0-638435900845498039
 msgctxt "HUDPanel_TimeControl.0-638435900845498039"
 msgid "Saving is not allowed."
-msgstr ""
+msgstr "Збереження не дозволені"
 
 #. Key: HUDPanel_TimeControl.1-638331491639741470
 #. Args:
@@ -9557,7 +9559,7 @@ msgstr ""
 #. Key: HUDToolHoverUtils.0-638330714199792312
 msgctxt "HUDToolHoverUtils.0-638330714199792312"
 msgid "INVALID"
-msgstr ""
+msgstr "НЕПРАВИЛЬНО"
 
 #. Key: HUDToolHoverUtils.1-638330714199792312
 msgctxt "HUDToolHoverUtils.1-638330714199792312"
@@ -9567,7 +9569,7 @@ msgstr ""
 #. Key: HUDToolHoverUtils.2-638330714199792312
 msgctxt "HUDToolHoverUtils.2-638330714199792312"
 msgid "NEED RESOURCES"
-msgstr ""
+msgstr "Потрібні ресурси"
 
 #. Key: HUDToolHoverUtils.3-638330714199792312
 #. Args:
@@ -9591,17 +9593,17 @@ msgstr ""
 #. Key: HUDToolHoverUtils.2-638336722417517434
 msgctxt "HUDToolHoverUtils.2-638336722417517434"
 msgid "Complete"
-msgstr ""
+msgstr "Готово"
 
 #. Key: HUDToolHoverUtils.3-638336722417517434
 msgctxt "HUDToolHoverUtils.3-638336722417517434"
 msgid "Begin"
-msgstr ""
+msgstr "Почати"
 
 #. Key: HUDToolHoverUtils.4-638336722417517434
 msgctxt "HUDToolHoverUtils.4-638336722417517434"
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 #. Key: HUDToolHoverUtils.5-638336722417517434
 msgctxt "HUDToolHoverUtils.5-638336722417517434"
@@ -9611,7 +9613,7 @@ msgstr ""
 #. Key: HUDToolHoverUtils.6-638336722417517434
 msgctxt "HUDToolHoverUtils.6-638336722417517434"
 msgid "Back"
-msgstr ""
+msgstr "Назад"
 
 #. Key: HUDToolHoverUtils.0-638352274913493041
 msgctxt "HUDToolHoverUtils.0-638352274913493041"
@@ -9646,7 +9648,7 @@ msgstr ""
 #. Key: HUDToolHoverUtils.1-638206939484544115
 msgctxt "HUDToolHoverUtils.1-638206939484544115"
 msgid "INVALID"
-msgstr ""
+msgstr "НЕПРАВИЛЬНО"
 
 #. Key: HUDToolHoverUtils.2-638206939484544115
 msgctxt "HUDToolHoverUtils.2-638206939484544115"
@@ -9757,7 +9759,7 @@ msgstr ""
 #. Key: HUDToolHoverUtils.16-638330714199807359
 msgctxt "HUDToolHoverUtils.16-638330714199807359"
 msgid "Never"
-msgstr ""
+msgstr "Ніколи"
 
 #. Key: HUDToolHoverUtils.17-638330714199807359
 #. Args:
@@ -9769,7 +9771,7 @@ msgstr ""
 #. Key: HUDToolHoverUtils.18-638330714199807359
 msgctxt "HUDToolHoverUtils.18-638330714199807359"
 msgid "Select For Mining"
-msgstr ""
+msgstr "Вибрати, щоб добувати"
 
 #. Key: HUDToolHoverUtils.19-638330714199807359
 msgctxt "HUDToolHoverUtils.19-638330714199807359"
@@ -9789,7 +9791,7 @@ msgstr "Вибрати, щоб полювати"
 #. Key: HUDToolHoverUtils.0-638415221469807431
 msgctxt "HUDToolHoverUtils.0-638415221469807431"
 msgid "Select For Gathering"
-msgstr ""
+msgstr "Вибрати, щоб зібрати"
 
 #. Key: HUDToolHoverUtils.0-638365180182599142
 msgctxt "HUDToolHoverUtils.0-638365180182599142"
@@ -10804,7 +10806,7 @@ msgstr ""
 #. Key: ArtifactsWidgetEntry.4-638525885281491348
 msgctxt "ArtifactsWidgetEntry.4-638525885281491348"
 msgid "Are you sure?"
-msgstr ""
+msgstr "Ви впевнені?"
 
 #. Key: ArtifactsWidgetEntry.6-638525885281491348
 msgctxt "ArtifactsWidgetEntry.6-638525885281491348"
@@ -11803,7 +11805,7 @@ msgstr ""
 #. Key: HUDWindow_Construct_Button.0-638324680265294020
 msgctxt "HUDWindow_Construct_Button.0-638324680265294020"
 msgid "NEW"
-msgstr ""
+msgstr "Нове"
 
 #. Key: HUDWindow_Divination.0-637913965328445929
 msgctxt "HUDWindow_Divination.0-637913965328445929"
@@ -15144,7 +15146,8 @@ msgstr ""
 msgctxt "SanityBarArea.6-638325564500789701"
 msgid "\n"
 "Value: {0}/{1}"
-msgstr ""
+msgstr "\n"
+"Значення: {0}/{1}"
 
 #. Key: SanityBarArea.7-638325564500789701
 #. Args:
@@ -15179,7 +15182,8 @@ msgstr ""
 msgctxt "SanityBarArea.10-638325564500789701"
 msgid "\n"
 "Value: {0}/{1}"
-msgstr ""
+msgstr "\n"
+"Значення: {0}/{1}"
 
 #. Key: SanityBarArea.11-638325564500789701
 #. Args:
@@ -15372,7 +15376,8 @@ msgstr ""
 msgctxt "SanityNeedBar.16-638325564500814851"
 msgid "\n"
 "Value: {0}/{1}"
-msgstr ""
+msgstr "\n"
+"Значення: {0}/{1}"
 
 #. Key: SanityNeedBar.17-638325564500814851
 #. Args:
@@ -15407,7 +15412,8 @@ msgstr ""
 msgctxt "SanityNeedBar.20-638325564500814851"
 msgid "\n"
 "Value: {0}/{1}"
-msgstr ""
+msgstr "\n"
+"Значення: {0}/{1}"
 
 #. Key: SanityNeedBar.21-638325564500814851
 #. Args:

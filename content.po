@@ -2621,7 +2621,6 @@ msgctxt "Archetype.ManaFont.Configs.17-638435900930336826.Buckets.1-638435900930
 msgid "Students"
 msgstr "Студенти"
 
-
 #. Key: Archetype.ManaFont.Configs.19-638379728818366188.ButtonName
 msgctxt "Archetype.ManaFont.Configs.19-638379728818366188.ButtonName"
 msgid "Superior Repel Fog"
@@ -2646,7 +2645,6 @@ msgstr "Працівник"
 msgctxt "Archetype.ManaFont.Configs.18-638435900930336826.Buckets.1-638435900930336826.Name"
 msgid "Students"
 msgstr "Студенти"
-
 
 #. Key: Archetype.ManaFont.Configs.20-638379728818366188.ButtonName
 msgctxt "Archetype.ManaFont.Configs.20-638379728818366188.ButtonName"
@@ -2673,7 +2671,6 @@ msgctxt "Archetype.ManaFont.Configs.19-638435900930336826.Buckets.1-638435900930
 msgid "Students"
 msgstr "Студенти"
 
-
 #. Key: Archetype.ManaFont.Configs.21-638379728818366188.ButtonName
 msgctxt "Archetype.ManaFont.Configs.21-638379728818366188.ButtonName"
 msgid "Superior Repel Fog"
@@ -2698,7 +2695,6 @@ msgstr "Працівник"
 msgctxt "Archetype.ManaFont.Configs.20-638435900930336826.Buckets.1-638435900930336826.Name"
 msgid "Students"
 msgstr "Студенти"
-
 
 #. Key: Archetype.ManaFont.Configs.22-638379728818366188.ButtonName
 msgctxt "Archetype.ManaFont.Configs.22-638379728818366188.ButtonName"
@@ -2725,7 +2721,6 @@ msgctxt "Archetype.ManaFont.Configs.21-638435900930351841.Buckets.1-638435900930
 msgid "Students"
 msgstr "Студенти"
 
-
 #. Key: Archetype.ManaFont.Configs.8-638253510446643161.ButtonName
 msgctxt "Archetype.ManaFont.Configs.8-638253510446643161.ButtonName"
 msgid "Unlock Underschool"
@@ -2750,7 +2745,6 @@ msgstr "Працівник"
 msgctxt "Archetype.ManaFont.Configs.8-638253510446643161.Buckets.1-638253510446643161.Name"
 msgid "Students"
 msgstr "Студенти"
-
 
 #. Key: Archetype.Gutberry.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.Gutberry.DescriptionConfig.0.DisplayName"
@@ -3790,7 +3784,7 @@ msgstr ""
 #. Key: Archetype.RunewoodTree.DescriptionConfig.0.Description
 msgctxt "Archetype.RunewoodTree.DescriptionConfig.0.Description"
 msgid "Only grows in Sunlight. Yields Runewood."
-msgstr "Росте лише в денному світлі. Повертає рунічну деревину""
+msgstr "Росте лише в денному світлі. Повертає рунічну деревину"
 
 #. Key: Archetype.RunewoodTree.Configs.4-638359396558565971.ErrandDisplayName
 msgctxt "Archetype.RunewoodTree.Configs.4-638359396558565971.ErrandDisplayName"
@@ -4085,7 +4079,7 @@ msgstr ""
 #. Key: Archetype.RunewoodTreeCrop.Configs.2-638194796087817793.Description
 msgctxt "Archetype.RunewoodTreeCrop.Configs.2-638194796087817793.Description"
 msgid "Only grows in Sunlight. Yields Runewood."
-msgstr "Росте лише в денному світлі. Повертає рунічну деревину""
+msgstr "Росте лише в денному світлі. Повертає рунічну деревину"
 
 #. Key: Archetype.PoltergeistLights.Configs.1-638303073503331118.DisplayName
 msgctxt "Archetype.PoltergeistLights.Configs.1-638303073503331118.DisplayName"
@@ -9582,10 +9576,6 @@ msgid "Write"
 msgstr "Написати"
 
 #. Key: Archetype.ScrivenersDesk.RecreationErrandConfig.0.Completion
-msgctxt "Archetype.ScrivenersDesk.RecreationErrandConfig.0.Completion"
-msgid "{0} wrote. ({1})"
-msgid "{0} написав. ({1})"
-
 #. Key: Archetype.Easel.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.Easel.DescriptionConfig.0.DisplayName"
 msgid "Easel - Old"
@@ -9608,7 +9598,7 @@ msgstr ""
 
 #. Key: Archetype.Easel.RecreationErrandConfig.0.Action
 msgctxt "Archetype.Easel.RecreationErrandConfig.0.Action"
- msgid "Paint"
+msgid "Paint"
 msgstr "Намальовано"
 
 #. Key: Archetype.Easel.RecreationErrandConfig.0.Completion
@@ -35159,7 +35149,6 @@ msgctxt "KeywordDefinition.students.DisplayName"
 msgid "Students"
 msgstr "Студенти"
 
-
 #. Key: KeywordDefinition.students.Description
 msgctxt "KeywordDefinition.students.Description"
 msgid "The lifeblood of your school. Teach them how to use magic and keep them safe from harm."
@@ -44353,7 +44342,7 @@ msgstr ""
 
 #. Key: JobTypeDefinition.JobType_Painting.DisplayName
 msgctxt "JobTypeDefinition.JobType_Painting.DisplayName"
- msgid "Paint"
+msgid "Paint"
 msgstr "Намальовано"
 
 #. Key: JobTypeDefinition.JobType_Painting.Description
@@ -49211,7 +49200,6 @@ msgctxt "BadgeDefinition.SoloLearner_1.ProximityDesc"
 msgid "Students"
 msgstr "Студенти"
 
-
 #. Key: BadgeDefinition.SoloLearner_2.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_2.DisplayName"
 msgid "Solo Learner - Silver"
@@ -49226,7 +49214,6 @@ msgstr ""
 msgctxt "BadgeDefinition.SoloLearner_2.ProximityDesc"
 msgid "Students"
 msgstr "Студенти"
-
 
 #. Key: BadgeDefinition.SoloLearner_3_Fire.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Fire.DisplayName"
@@ -49243,7 +49230,6 @@ msgctxt "BadgeDefinition.SoloLearner_3_Fire.ProximityDesc"
 msgid "Students"
 msgstr "Студенти"
 
-
 #. Key: BadgeDefinition.SoloLearner_4_Fire.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Fire.DisplayName"
 msgid "Solo Learner (Fire) - Platinum"
@@ -49258,7 +49244,6 @@ msgstr ""
 msgctxt "BadgeDefinition.SoloLearner_4_Fire.ProximityDesc"
 msgid "Students"
 msgstr "Студенти"
-
 
 #. Key: BadgeDefinition.SoloLearner_3_Water.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Water.DisplayName"
@@ -49275,7 +49260,6 @@ msgctxt "BadgeDefinition.SoloLearner_3_Water.ProximityDesc"
 msgid "Students"
 msgstr "Студенти"
 
-
 #. Key: BadgeDefinition.SoloLearner_4_Water.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Water.DisplayName"
 msgid "Solo Learner (Water) - Platinum"
@@ -49290,7 +49274,6 @@ msgstr ""
 msgctxt "BadgeDefinition.SoloLearner_4_Water.ProximityDesc"
 msgid "Students"
 msgstr "Студенти"
-
 
 #. Key: BadgeDefinition.SoloLearner_3_Earth.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Earth.DisplayName"
@@ -49307,7 +49290,6 @@ msgctxt "BadgeDefinition.SoloLearner_3_Earth.ProximityDesc"
 msgid "Students"
 msgstr "Студенти"
 
-
 #. Key: BadgeDefinition.SoloLearner_4_Earth.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Earth.DisplayName"
 msgid "Solo Learner (Earth) - Platinum"
@@ -49322,7 +49304,6 @@ msgstr ""
 msgctxt "BadgeDefinition.SoloLearner_4_Earth.ProximityDesc"
 msgid "Students"
 msgstr "Студенти"
-
 
 #. Key: BadgeDefinition.SoloLearner_3_Air.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Air.DisplayName"
@@ -49339,7 +49320,6 @@ msgctxt "BadgeDefinition.SoloLearner_3_Air.ProximityDesc"
 msgid "Students"
 msgstr "Студенти"
 
-
 #. Key: BadgeDefinition.SoloLearner_4_Air.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Air.DisplayName"
 msgid "Solo Learner (Air) - Platinum"
@@ -49354,7 +49334,6 @@ msgstr ""
 msgctxt "BadgeDefinition.SoloLearner_4_Air.ProximityDesc"
 msgid "Students"
 msgstr "Студенти"
-
 
 #. Key: BadgeDefinition.SoloLearner_3_Nature.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Nature.DisplayName"
@@ -49371,7 +49350,6 @@ msgctxt "BadgeDefinition.SoloLearner_3_Nature.ProximityDesc"
 msgid "Students"
 msgstr "Студенти"
 
-
 #. Key: BadgeDefinition.SoloLearner_4_Nature.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Nature.DisplayName"
 msgid "Solo Learner (Nature) - Platinum"
@@ -49386,7 +49364,6 @@ msgstr ""
 msgctxt "BadgeDefinition.SoloLearner_4_Nature.ProximityDesc"
 msgid "Students"
 msgstr "Студенти"
-
 
 #. Key: BadgeDefinition.SoloLearner_3_Dark.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Dark.DisplayName"
@@ -49403,7 +49380,6 @@ msgctxt "BadgeDefinition.SoloLearner_3_Dark.ProximityDesc"
 msgid "Students"
 msgstr "Студенти"
 
-
 #. Key: BadgeDefinition.SoloLearner_4_Dark.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Dark.DisplayName"
 msgid "Solo Learner (Dark) - Platinum"
@@ -49418,7 +49394,6 @@ msgstr ""
 msgctxt "BadgeDefinition.SoloLearner_4_Dark.ProximityDesc"
 msgid "Students"
 msgstr "Студенти"
-
 
 #. Key: BadgeDefinition.SoloLearner_3_Lightning.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_3_Lightning.DisplayName"
@@ -49435,7 +49410,6 @@ msgctxt "BadgeDefinition.SoloLearner_3_Lightning.ProximityDesc"
 msgid "Students"
 msgstr "Студенти"
 
-
 #. Key: BadgeDefinition.SoloLearner_4_Lightning.DisplayName
 msgctxt "BadgeDefinition.SoloLearner_4_Lightning.DisplayName"
 msgid "Solo Learner (Lightning) - Platinum"
@@ -49450,7 +49424,6 @@ msgstr ""
 msgctxt "BadgeDefinition.SoloLearner_4_Lightning.ProximityDesc"
 msgid "Students"
 msgstr "Студенти"
-
 
 #. Key: BadgeDefinition.BlissfulLearner_1.DisplayName
 msgctxt "BadgeDefinition.BlissfulLearner_1.DisplayName"
