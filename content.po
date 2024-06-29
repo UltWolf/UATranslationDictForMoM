@@ -1,16 +1,3 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: uk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.4.4\n"
-
 #. Key: Archetype.CroaNest.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.CroaNest.DescriptionConfig.0.DisplayName"
 msgid "Croa Nest"
@@ -57,9 +44,11 @@ msgid "Hunted"
 msgstr "Впольовано"
 
 #. Key: Archetype.Ooze.Configs.6-638180308763671272.WorkCompletedText
+#. msgidprev "Hunted"
+#. msgstrprev "Впольовано {0}"
 msgctxt "Archetype.Ooze.Configs.6-638180308763671272.WorkCompletedText"
-msgid "Hunted"
-msgstr "Впольовано {0}"
+msgid "Hunted {0}"
+msgstr ""
 
 #. Key: Archetype.Ooze.Configs.11-638435900927649735.BehaviorDesc
 msgctxt "Archetype.Ooze.Configs.11-638435900927649735.BehaviorDesc"
@@ -92,9 +81,11 @@ msgid "Hunted"
 msgstr "Впольовано"
 
 #. Key: Archetype.ClutterGremlin.Configs.7-638180308763681272.WorkCompletedText
+#. msgidprev "Hunted"
+#. msgstrprev "Впольовано {0}"
 msgctxt "Archetype.ClutterGremlin.Configs.7-638180308763681272.WorkCompletedText"
-msgid "Hunted"
-msgstr "Впольовано {0}"
+msgid "Hunted {0}"
+msgstr ""
 
 #. Key: Archetype.ClutterGremlin.Configs.11-638435900927665835.BehaviorDesc
 msgctxt "Archetype.ClutterGremlin.Configs.11-638435900927665835.BehaviorDesc"
@@ -127,9 +118,11 @@ msgid "Hunted"
 msgstr "Впольовано"
 
 #. Key: Archetype.SpectralCroa.Configs.10-638186477056369471.WorkCompletedText
+#. msgidprev "Hunted"
+#. msgstrprev "Впольовано {0}"
 msgctxt "Archetype.SpectralCroa.Configs.10-638186477056369471.WorkCompletedText"
-msgid "Hunted"
-msgstr "Впольовано {0}"
+msgid "Hunted {0}"
+msgstr ""
 
 #. Key: Archetype.SpectralCroa.IdleErrandConfig.1.BehaviorDesc
 msgctxt "Archetype.SpectralCroa.IdleErrandConfig.1.BehaviorDesc"
@@ -167,9 +160,11 @@ msgid "Hunted"
 msgstr "Впольовано"
 
 #. Key: Archetype.SpectralGremlin.Configs.10-638186477056369471.WorkCompletedText
+#. msgidprev "Hunted"
+#. msgstrprev "Впольовано {0}"
 msgctxt "Archetype.SpectralGremlin.Configs.10-638186477056369471.WorkCompletedText"
-msgid "Hunted"
-msgstr "Впольовано {0}"
+msgid "Hunted {0}"
+msgstr ""
 
 #. Key: Archetype.SpectralGremlin.IdleErrandConfig.1.BehaviorDesc
 msgctxt "Archetype.SpectralGremlin.IdleErrandConfig.1.BehaviorDesc"
@@ -257,9 +252,11 @@ msgid "Hunted"
 msgstr "Впольовано"
 
 #. Key: Archetype.Croa.Configs.6-638180308763661274.WorkCompletedText
+#. msgidprev "Hunted"
+#. msgstrprev "Впольовано {0}"
 msgctxt "Archetype.Croa.Configs.6-638180308763661274.WorkCompletedText"
-msgid "Hunted"
-msgstr "Впольовано {0}"
+msgid "Hunted {0}"
+msgstr ""
 
 #. Key: Archetype.Croa.IdleErrandConfig.3.BehaviorDesc
 msgctxt "Archetype.Croa.IdleErrandConfig.3.BehaviorDesc"
@@ -982,9 +979,11 @@ msgid "Hunted"
 msgstr "Впольовано"
 
 #. Key: Archetype.InvasionCreature.Configs.14-638435900928680324.WorkCompletedText
+#. msgidprev "Hunted"
+#. msgstrprev "Впольовано {0}"
 msgctxt "Archetype.InvasionCreature.Configs.14-638435900928680324.WorkCompletedText"
-msgid "Hunted"
-msgstr "Впольовано {0}"
+msgid "Hunted {0}"
+msgstr ""
 
 #. Key: Archetype.InvasionCreature_Tier2.Configs.1-638448868308742448.DisplayName
 msgctxt "Archetype.InvasionCreature_Tier2.Configs.1-638448868308742448.DisplayName"
@@ -1017,9 +1016,11 @@ msgid "Hunted"
 msgstr "Впольовано"
 
 #. Key: Archetype.InvasionCreature_Tier2.Configs.15-638448868308742448.WorkCompletedText
+#. msgidprev "Hunted"
+#. msgstrprev "Впольовано {0}"
 msgctxt "Archetype.InvasionCreature_Tier2.Configs.15-638448868308742448.WorkCompletedText"
-msgid "Hunted"
-msgstr "Впольовано {0}"
+msgid "Hunted {0}"
+msgstr ""
 
 #. Key: Archetype.InvasionCreature_Tier3.Configs.1-638448868308742448.DisplayName
 msgctxt "Archetype.InvasionCreature_Tier3.Configs.1-638448868308742448.DisplayName"
@@ -1052,9 +1053,11 @@ msgid "Hunted"
 msgstr "Впольовано"
 
 #. Key: Archetype.InvasionCreature_Tier3.Configs.15-638448868308742448.WorkCompletedText
+#. msgidprev "Hunted"
+#. msgstrprev "Впольовано {0}"
 msgctxt "Archetype.InvasionCreature_Tier3.Configs.15-638448868308742448.WorkCompletedText"
-msgid "Hunted"
-msgstr "Впольовано {0}"
+msgid "Hunted {0}"
+msgstr ""
 
 #. Key: Archetype.BreathStealerCreature1.Configs.1-638525885382031297.DisplayName
 msgctxt "Archetype.BreathStealerCreature1.Configs.1-638525885382031297.DisplayName"
@@ -1062,13 +1065,19 @@ msgid "Breathstealer"
 msgstr "Подихокрадій"
 
 #. Key: Archetype.BreathStealerCreature1.Configs.1-638525885382031297.Description
+#. msgidprev "Causes a Mage to become <slink=MarkedForDeath>. Upon reaching that Mage, it will rapidly steal their life force, causing them to be <slink=KnockedOut>. It will leave the school after claiming three victims."
 msgctxt "Archetype.BreathStealerCreature1.Configs.1-638525885382031297.Description"
-msgid "Causes a Mage to become <slink=MarkedForDeath>. Upon reaching that Mage, it will rapidly steal their life force, causing them to be <slink=KnockedOut>. It will leave the school after claiming three victims."
+msgid "Chooses a Mage to be <slink=MarkedForDeath> and stalks them. It will leave the school after leaving three Mages <slink=KnockedOut>. <slink=JobType_Hunting> to stop the Breathstealer."
 msgstr ""
 
 #. Key: Archetype.BreathStealerCreature1.Configs.1-638525885382031297.FlavorText
 msgctxt "Archetype.BreathStealerCreature1.Configs.1-638525885382031297.FlavorText"
 msgid "Inexorably squelching towards a doomed soul."
+msgstr ""
+
+#. Key: Archetype.BreathStealerCreature1.Configs.8-638549379688579104.CustomBehaviorDesc
+msgctxt "Archetype.BreathStealerCreature1.Configs.8-638549379688579104.CustomBehaviorDesc"
+msgid "Stalking {0}"
 msgstr ""
 
 #. Key: Archetype.BreathStealerCreature1.Configs.16-638525885382031297.ErrandDisplayName
@@ -1087,9 +1096,11 @@ msgid "Hunted"
 msgstr "Впольовано"
 
 #. Key: Archetype.BreathStealerCreature1.Configs.16-638525885382031297.WorkCompletedText
+#. msgidprev "Hunted"
+#. msgstrprev "Впольовано {0}"
 msgctxt "Archetype.BreathStealerCreature1.Configs.16-638525885382031297.WorkCompletedText"
-msgid "Hunted"
-msgstr "Впольовано {0}"
+msgid "Hunted {0}"
+msgstr ""
 
 #. Key: Archetype.TreasureChestSmokepearl.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.TreasureChestSmokepearl.DescriptionConfig.0.DisplayName"
@@ -1407,13 +1418,15 @@ msgid "Mined {0}"
 msgstr "Видобуваний {0}"
 
 #. Key: Archetype.CapturedMageCrystal_0.Configs.1-638357407924490414.DisplayName
+#. msgidprev "Crystal Trap"
 msgctxt "Archetype.CapturedMageCrystal_0.Configs.1-638357407924490414.DisplayName"
-msgid "Crystal Trap"
+msgid "Fog Trap"
 msgstr ""
 
 #. Key: Archetype.CapturedMageCrystal_0.Configs.1-638357407924490414.Description
+#. msgidprev "A mysterious crystal of concentrated malintent. Battle enemies to free the Mage trapped inside."
 msgctxt "Archetype.CapturedMageCrystal_0.Configs.1-638357407924490414.Description"
-msgid "A mysterious crystal of concentrated malintent. Battle enemies to free the Mage trapped inside."
+msgid "A mysterious cloud of concentrated malintent. Battle enemies to free the Mage trapped inside."
 msgstr ""
 
 #. Key: Archetype.CapturedMageCrystal_0.Configs.7-638373896716611888.BattleClearedLogText
@@ -1437,13 +1450,15 @@ msgid "Back Row"
 msgstr ""
 
 #. Key: Archetype.CapturedMageCrystal_1.Configs.1-638357407924490414.DisplayName
+#. msgidprev "Crystal Trap"
 msgctxt "Archetype.CapturedMageCrystal_1.Configs.1-638357407924490414.DisplayName"
-msgid "Crystal Trap"
+msgid "Fog Trap"
 msgstr ""
 
 #. Key: Archetype.CapturedMageCrystal_1.Configs.1-638357407924490414.Description
+#. msgidprev "A mysterious crystal of concentrated malintent. Battle enemies to free the Mage trapped inside."
 msgctxt "Archetype.CapturedMageCrystal_1.Configs.1-638357407924490414.Description"
-msgid "A mysterious crystal of concentrated malintent. Battle enemies to free the Mage trapped inside."
+msgid "A mysterious cloud of concentrated malintent. Battle enemies to free the Mage trapped inside."
 msgstr ""
 
 #. Key: Archetype.CapturedMageCrystal_1.Configs.7-638373896716621887.BattleClearedLogText
@@ -1467,13 +1482,15 @@ msgid "Back Row"
 msgstr ""
 
 #. Key: Archetype.CapturedMageCrystal_2.Configs.1-638357407924506001.DisplayName
+#. msgidprev "Crystal Trap"
 msgctxt "Archetype.CapturedMageCrystal_2.Configs.1-638357407924506001.DisplayName"
-msgid "Crystal Trap"
+msgid "Fog Trap"
 msgstr ""
 
 #. Key: Archetype.CapturedMageCrystal_2.Configs.1-638357407924506001.Description
+#. msgidprev "A mysterious crystal of concentrated malintent. Battle enemies to free the Mage trapped inside."
 msgctxt "Archetype.CapturedMageCrystal_2.Configs.1-638357407924506001.Description"
-msgid "A mysterious crystal of concentrated malintent. Battle enemies to free the Mage trapped inside."
+msgid "A mysterious cloud of concentrated malintent. Battle enemies to free the Mage trapped inside."
 msgstr ""
 
 #. Key: Archetype.CapturedMageCrystal_2.Configs.7-638373896716631891.BattleClearedLogText
@@ -1497,13 +1514,15 @@ msgid "Back Row"
 msgstr ""
 
 #. Key: Archetype.CapturedMageCrystal_3.Configs.1-638357407924516012.DisplayName
+#. msgidprev "Crystal Trap"
 msgctxt "Archetype.CapturedMageCrystal_3.Configs.1-638357407924516012.DisplayName"
-msgid "Crystal Trap"
+msgid "Fog Trap"
 msgstr ""
 
 #. Key: Archetype.CapturedMageCrystal_3.Configs.1-638357407924516012.Description
+#. msgidprev "A mysterious crystal of concentrated malintent. Battle enemies to free the Mage trapped inside."
 msgctxt "Archetype.CapturedMageCrystal_3.Configs.1-638357407924516012.Description"
-msgid "A mysterious crystal of concentrated malintent. Battle enemies to free the Mage trapped inside."
+msgid "A mysterious cloud of concentrated malintent. Battle enemies to free the Mage trapped inside."
 msgstr ""
 
 #. Key: Archetype.CapturedMageCrystal_3.Configs.7-638373896716641890.BattleClearedLogText
@@ -3371,46 +3390,6 @@ msgctxt "Archetype.FastTravelBroom.Configs.0-638496594399534724.Description"
 msgid "Created at a <slink=BroomStation>. Used to travel from one <nlink=BroomStation> to another."
 msgstr ""
 
-#. Key: Archetype.IceflowerCrop.Configs.2-638194796081576724.DisplayName
-msgctxt "Archetype.IceflowerCrop.Configs.2-638194796081576724.DisplayName"
-msgid "Iceflower"
-msgstr ""
-
-#. Key: Archetype.IceflowerCrop.Configs.2-638194796081576724.Description
-msgctxt "Archetype.IceflowerCrop.Configs.2-638194796081576724.Description"
-msgid "A common plant with magical properties."
-msgstr "Звичайна рослина з магічними якостями."
-
-#. Key: Archetype.PhoenixFlowerPlantCrop.Configs.2-638194796081576724.DisplayName
-msgctxt "Archetype.PhoenixFlowerPlantCrop.Configs.2-638194796081576724.DisplayName"
-msgid "Phoenix's Kiss"
-msgstr "Поцілунок Фенікса"
-
-#. Key: Archetype.PhoenixFlowerPlantCrop.Configs.2-638194796081576724.Description
-msgctxt "Archetype.PhoenixFlowerPlantCrop.Configs.2-638194796081576724.Description"
-msgid "A common plant with magical properties."
-msgstr "Звичайна рослина з магічними якостями."
-
-#. Key: Archetype.WyrmweedPlantCrop.Configs.2-638194796081576724.DisplayName
-msgctxt "Archetype.WyrmweedPlantCrop.Configs.2-638194796081576724.DisplayName"
-msgid "Wyrmweed"
-msgstr ""
-
-#. Key: Archetype.WyrmweedPlantCrop.Configs.2-638194796081576724.Description
-msgctxt "Archetype.WyrmweedPlantCrop.Configs.2-638194796081576724.Description"
-msgid "A common plant with magical properties."
-msgstr "Звичайна рослина з магічними якостями."
-
-#. Key: Archetype.SmokereedPlantCrop.Configs.2-638194796081576724.DisplayName
-msgctxt "Archetype.SmokereedPlantCrop.Configs.2-638194796081576724.DisplayName"
-msgid "Smokereed"
-msgstr ""
-
-#. Key: Archetype.SmokereedPlantCrop.Configs.2-638194796081576724.Description
-msgctxt "Archetype.SmokereedPlantCrop.Configs.2-638194796081576724.Description"
-msgid "A common plant with magical properties."
-msgstr "Звичайна рослина з магічними якостями."
-
 #. Key: Archetype.GutberryPlant.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.GutberryPlant.DescriptionConfig.0.DisplayName"
 msgid "Gutberry Vines"
@@ -3915,6 +3894,46 @@ msgstr ""
 msgctxt "Archetype.FractalMoldCrop.Configs.2-638194796087807907.Description"
 msgid "A rare plant with magical properties. Grows in Moonlight."
 msgstr ""
+
+#. Key: Archetype.IceflowerCrop.Configs.2-638194796081576724.DisplayName
+msgctxt "Archetype.IceflowerCrop.Configs.2-638194796081576724.DisplayName"
+msgid "Iceflower"
+msgstr ""
+
+#. Key: Archetype.IceflowerCrop.Configs.2-638194796081576724.Description
+msgctxt "Archetype.IceflowerCrop.Configs.2-638194796081576724.Description"
+msgid "A common plant with magical properties."
+msgstr "Звичайна рослина з магічними якостями."
+
+#. Key: Archetype.PhoenixFlowerPlantCrop.Configs.2-638194796081576724.DisplayName
+msgctxt "Archetype.PhoenixFlowerPlantCrop.Configs.2-638194796081576724.DisplayName"
+msgid "Phoenix's Kiss"
+msgstr "Поцілунок Фенікса"
+
+#. Key: Archetype.PhoenixFlowerPlantCrop.Configs.2-638194796081576724.Description
+msgctxt "Archetype.PhoenixFlowerPlantCrop.Configs.2-638194796081576724.Description"
+msgid "A common plant with magical properties."
+msgstr "Звичайна рослина з магічними якостями."
+
+#. Key: Archetype.WyrmweedPlantCrop.Configs.2-638194796081576724.DisplayName
+msgctxt "Archetype.WyrmweedPlantCrop.Configs.2-638194796081576724.DisplayName"
+msgid "Wyrmweed"
+msgstr ""
+
+#. Key: Archetype.WyrmweedPlantCrop.Configs.2-638194796081576724.Description
+msgctxt "Archetype.WyrmweedPlantCrop.Configs.2-638194796081576724.Description"
+msgid "A common plant with magical properties."
+msgstr "Звичайна рослина з магічними якостями."
+
+#. Key: Archetype.SmokereedPlantCrop.Configs.2-638194796081576724.DisplayName
+msgctxt "Archetype.SmokereedPlantCrop.Configs.2-638194796081576724.DisplayName"
+msgid "Smokereed"
+msgstr ""
+
+#. Key: Archetype.SmokereedPlantCrop.Configs.2-638194796081576724.Description
+msgctxt "Archetype.SmokereedPlantCrop.Configs.2-638194796081576724.Description"
+msgid "A common plant with magical properties."
+msgstr "Звичайна рослина з магічними якостями."
 
 #. Key: Archetype.GutberryPlantCrop.Configs.2-638343422163521948.DisplayName
 msgctxt "Archetype.GutberryPlantCrop.Configs.2-638343422163521948.DisplayName"
@@ -4805,8 +4824,12 @@ msgid "Gnosis Shards"
 msgstr ""
 
 #. Key: Archetype.GnosisShards.Configs.0-638525885387328416.Description
+#. msgidprev "Magical fragments from a <slink=Artifact>. Used to Hire new Staff and Summon Gifted Initiates.\n"
 msgctxt "Archetype.GnosisShards.Configs.0-638525885387328416.Description"
-msgid "Magical fragments from a <slink=Artifact>. Used to Hire new Staff and Summon Gifted Initiates.\n"
+msgid ""
+"Magical fragments from a <slink=Artifact>. Used to Hire new Staff and Summon Gifted Initiates.\n"
+"\n"
+"Sources: Pulverize a <nlink=Artifact> at a <slink=ArtifactPulverizer>.\n"
 msgstr ""
 
 #. Key: Archetype.GnosisShards.Configs.0-638525885387328416.FlavorText
@@ -9576,6 +9599,10 @@ msgid "Write"
 msgstr "Написати"
 
 #. Key: Archetype.ScrivenersDesk.RecreationErrandConfig.0.Completion
+msgctxt "Archetype.ScrivenersDesk.RecreationErrandConfig.0.Completion"
+msgid "{0} wrote. ({1})"
+msgstr ""
+
 #. Key: Archetype.Easel.DescriptionConfig.0.DisplayName
 msgctxt "Archetype.Easel.DescriptionConfig.0.DisplayName"
 msgid "Easel - Old"
@@ -13602,8 +13629,9 @@ msgid "Air Wand II"
 msgstr ""
 
 #. Key: Archetype.AirWand_2.Configs.1-638204570758126977.Description
+#. msgidprev "A <slink=TierIIWand> with an Air Specialization."
 msgctxt "Archetype.AirWand_2.Configs.1-638204570758126977.Description"
-msgid "A <slink=TierIIWand> with an Air Specialization."
+msgid "A <slink=TierIIWand> with an Air Specialization. Tier II wands can replace Tier I wands of the same Skill at a <slink=Oraculum_T2_WandReplacer> in the <slink=Underschool>."
 msgstr ""
 
 #. Key: Archetype.EarthWand_2.Configs.1-638204570758126977.DisplayName
@@ -13612,8 +13640,9 @@ msgid "Earth Wand II"
 msgstr ""
 
 #. Key: Archetype.EarthWand_2.Configs.1-638204570758126977.Description
+#. msgidprev "A <slink=TierIIWand> with an Earth Specialization."
 msgctxt "Archetype.EarthWand_2.Configs.1-638204570758126977.Description"
-msgid "A <slink=TierIIWand> with an Earth Specialization."
+msgid "A <slink=TierIIWand> with an Earth Specialization. Tier II wands can replace Tier I wands of the same Skill at a <slink=Oraculum_T2_WandReplacer> in the <slink=Underschool>."
 msgstr ""
 
 #. Key: Archetype.NatureWand_2.Configs.1-638204570758126977.DisplayName
@@ -13622,8 +13651,9 @@ msgid "Nature Wand II"
 msgstr ""
 
 #. Key: Archetype.NatureWand_2.Configs.1-638204570758126977.Description
+#. msgidprev "A <slink=TierIIWand> with a Nature Specialization."
 msgctxt "Archetype.NatureWand_2.Configs.1-638204570758126977.Description"
-msgid "A <slink=TierIIWand> with a Nature Specialization."
+msgid "A <slink=TierIIWand> with a Nature Specialization. Tier II wands can replace Tier I wands of the same Skill at a <slink=Oraculum_T2_WandReplacer> in the <slink=Underschool>."
 msgstr ""
 
 #. Key: Archetype.WaterWand_2.Configs.1-638204570758126977.DisplayName
@@ -13632,8 +13662,9 @@ msgid "Water Wand II"
 msgstr ""
 
 #. Key: Archetype.WaterWand_2.Configs.1-638204570758126977.Description
+#. msgidprev "A <slink=TierIIWand> with a Water Specialization."
 msgctxt "Archetype.WaterWand_2.Configs.1-638204570758126977.Description"
-msgid "A <slink=TierIIWand> with a Water Specialization."
+msgid "A <slink=TierIIWand> with a Water Specialization. Tier II wands can replace Tier I wands of the same Skill at a <slink=Oraculum_T2_WandReplacer> in the <slink=Underschool>."
 msgstr ""
 
 #. Key: Archetype.LightningWand_2.Configs.1-638204570758126977.DisplayName
@@ -13642,8 +13673,9 @@ msgid "Lightning Wand II"
 msgstr ""
 
 #. Key: Archetype.LightningWand_2.Configs.1-638204570758126977.Description
+#. msgidprev "A <slink=TierIIWand> with a Lightning Specialization."
 msgctxt "Archetype.LightningWand_2.Configs.1-638204570758126977.Description"
-msgid "A <slink=TierIIWand> with a Lightning Specialization."
+msgid "A <slink=TierIIWand> with a Lightning Specialization. Tier II wands can replace Tier I wands of the same Skill at a <slink=Oraculum_T2_WandReplacer> in the <slink=Underschool>."
 msgstr ""
 
 #. Key: Archetype.DarkWand_2.Configs.1-638204570758137089.DisplayName
@@ -13652,8 +13684,9 @@ msgid "Dark Wand II"
 msgstr ""
 
 #. Key: Archetype.DarkWand_2.Configs.1-638204570758137089.Description
+#. msgidprev "A <slink=TierIIWand> with a Dark Specialization."
 msgctxt "Archetype.DarkWand_2.Configs.1-638204570758137089.Description"
-msgid "A <slink=TierIIWand> with a Dark Specialization."
+msgid "A <slink=TierIIWand> with a Dark Specialization. Tier II wands can replace Tier I wands of the same Skill at a <slink=Oraculum_T2_WandReplacer> in the <slink=Underschool>."
 msgstr ""
 
 #. Key: Archetype.FireWand_3.Configs.1-638204570758137089.DisplayName
@@ -13662,8 +13695,9 @@ msgid "Fire Wand III"
 msgstr ""
 
 #. Key: Archetype.FireWand_3.Configs.1-638204570758137089.Description
+#. msgidprev "A <slink=TierIIIWand> with a Fire Specialization."
 msgctxt "Archetype.FireWand_3.Configs.1-638204570758137089.Description"
-msgid "A <slink=TierIIIWand> with a Fire Specialization."
+msgid "A <slink=TierIIIWand> with a Fire Specialization. Tier III wands can replace Tier II wands of the same Skill at a <slink=Oraculum_T3_WandReplacer> in the <slink=Underschool>."
 msgstr ""
 
 #. Key: Archetype.AirWand_3.Configs.1-638204570758137089.DisplayName
@@ -13672,8 +13706,9 @@ msgid "Air Wand III"
 msgstr ""
 
 #. Key: Archetype.AirWand_3.Configs.1-638204570758137089.Description
+#. msgidprev "A <slink=TierIIIWand> with an Air Specialization."
 msgctxt "Archetype.AirWand_3.Configs.1-638204570758137089.Description"
-msgid "A <slink=TierIIIWand> with an Air Specialization."
+msgid "A <slink=TierIIIWand> with an Air Specialization. Tier III wands can replace Tier II wands of the same Skill at a <slink=Oraculum_T3_WandReplacer> in the <slink=Underschool>."
 msgstr ""
 
 #. Key: Archetype.EarthWand_3.Configs.1-638204570758137089.DisplayName
@@ -13682,8 +13717,9 @@ msgid "Earth Wand III"
 msgstr ""
 
 #. Key: Archetype.EarthWand_3.Configs.1-638204570758137089.Description
+#. msgidprev "A <slink=TierIIIWand> with an Earth Specialization."
 msgctxt "Archetype.EarthWand_3.Configs.1-638204570758137089.Description"
-msgid "A <slink=TierIIIWand> with an Earth Specialization."
+msgid "A <slink=TierIIIWand> with an Earth Specialization. Tier III wands can replace Tier II wands of the same Skill at a <slink=Oraculum_T3_WandReplacer> in the <slink=Underschool>."
 msgstr ""
 
 #. Key: Archetype.NatureWand_3.Configs.1-638204570758147189.DisplayName
@@ -13692,8 +13728,9 @@ msgid "Nature Wand III"
 msgstr ""
 
 #. Key: Archetype.NatureWand_3.Configs.1-638204570758147189.Description
+#. msgidprev "A <slink=TierIIIWand> with a Nature Specialization."
 msgctxt "Archetype.NatureWand_3.Configs.1-638204570758147189.Description"
-msgid "A <slink=TierIIIWand> with a Nature Specialization."
+msgid "A <slink=TierIIIWand> with a Nature Specialization. Tier III wands can replace Tier II wands of the same Skill at a <slink=Oraculum_T3_WandReplacer> in the <slink=Underschool>."
 msgstr ""
 
 #. Key: Archetype.WaterWand_3.Configs.1-638204570758147189.DisplayName
@@ -13702,8 +13739,9 @@ msgid "Water Wand III"
 msgstr ""
 
 #. Key: Archetype.WaterWand_3.Configs.1-638204570758147189.Description
+#. msgidprev "A <slink=TierIIIWand> with a Water Specialization."
 msgctxt "Archetype.WaterWand_3.Configs.1-638204570758147189.Description"
-msgid "A <slink=TierIIIWand> with a Water Specialization."
+msgid "A <slink=TierIIIWand> with a Water Specialization. Tier III wands can replace Tier II wands of the same Skill at a <slink=Oraculum_T3_WandReplacer> in the <slink=Underschool>."
 msgstr ""
 
 #. Key: Archetype.LightningWand_3.Configs.1-638204570758147189.DisplayName
@@ -13712,8 +13750,9 @@ msgid "Lightning Wand III"
 msgstr ""
 
 #. Key: Archetype.LightningWand_3.Configs.1-638204570758147189.Description
+#. msgidprev "A <slink=TierIIIWand> with a Lightning Specialization."
 msgctxt "Archetype.LightningWand_3.Configs.1-638204570758147189.Description"
-msgid "A <slink=TierIIIWand> with a Lightning Specialization."
+msgid "A <slink=TierIIIWand> with a Lightning Specialization. Tier III wands can replace Tier II wands of the same Skill at a <slink=Oraculum_T3_WandReplacer> in the <slink=Underschool>."
 msgstr ""
 
 #. Key: Archetype.DarkWand_3.Configs.1-638204570758147189.DisplayName
@@ -13722,8 +13761,9 @@ msgid "Dark Wand III"
 msgstr ""
 
 #. Key: Archetype.DarkWand_3.Configs.1-638204570758147189.Description
+#. msgidprev "A <slink=TierIIIWand> with a Dark Specialization."
 msgctxt "Archetype.DarkWand_3.Configs.1-638204570758147189.Description"
-msgid "A <slink=TierIIIWand> with a Dark Specialization."
+msgid "A <slink=TierIIIWand> with a Dark Specialization.  Tier III wands can replace Tier II wands of the same Skill at a <slink=Oraculum_T3_WandReplacer> in the <slink=Underschool>."
 msgstr ""
 
 #. Key: Archetype.FireWand_4.Configs.1-638204570758147189.DisplayName
@@ -17757,8 +17797,9 @@ msgid "Scarred Confidence"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_1.Description
+#. msgidprev "Overcame their <slink=MajorWound_1>."
 msgctxt "CharacterStatusConfig.Scar_1.Description"
-msgid "Overcame their <slink=MajorWound_1>."
+msgid "Overcame their <slink=MajorWound_1> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_2.DisplayName
@@ -17767,8 +17808,9 @@ msgid "Scarred Thirst"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_2.Description
+#. msgidprev "Overcame their <slink=MajorWound_2>."
 msgctxt "CharacterStatusConfig.Scar_2.Description"
-msgid "Overcame their <slink=MajorWound_2>."
+msgid "Overcame their <slink=MajorWound_2> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_3.DisplayName
@@ -17777,8 +17819,9 @@ msgid "Scarred Joy"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_3.Description
+#. msgidprev "Overcame their <slink=MajorWound_3>."
 msgctxt "CharacterStatusConfig.Scar_3.Description"
-msgid "Overcame their <slink=MajorWound_3>."
+msgid "Overcame their <slink=MajorWound_3> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Wisdom1.DisplayName
@@ -17787,8 +17830,9 @@ msgid "Scarred Courage"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Wisdom1.Description
+#. msgidprev "Overcame their <slink=MajorWound_Wisdom1>."
 msgctxt "CharacterStatusConfig.Scar_Wisdom1.Description"
-msgid "Overcame their <slink=MajorWound_Wisdom1>."
+msgid "Overcame their <slink=MajorWound_Wisdom1> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Wisdom2.DisplayName
@@ -17797,8 +17841,9 @@ msgid "Scarred Thoughts"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Wisdom2.Description
+#. msgidprev "Overcame their <slink=MajorWound_Wisdom2>."
 msgctxt "CharacterStatusConfig.Scar_Wisdom2.Description"
-msgid "Overcame their <slink=MajorWound_Wisdom2>."
+msgid "Overcame their <slink=MajorWound_Wisdom2> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Wisdom3.DisplayName
@@ -17807,8 +17852,9 @@ msgid "Scarred Belief"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Wisdom3.Description
+#. msgidprev "Overcame their <slink=MajorWound_Wisdom3>."
 msgctxt "CharacterStatusConfig.Scar_Wisdom3.Description"
-msgid "Overcame their <slink=MajorWound_Wisdom3>."
+msgid "Overcame their <slink=MajorWound_Wisdom3> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Wisdom4.DisplayName
@@ -17817,8 +17863,9 @@ msgid "Scarred Decisiveness"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Wisdom4.Description
+#. msgidprev "Overcame their <slink=MajorWound_Wisdom4>."
 msgctxt "CharacterStatusConfig.Scar_Wisdom4.Description"
-msgid "Overcame their <slink=MajorWound_Wisdom4>."
+msgid "Overcame their <slink=MajorWound_Wisdom4> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Heart1.DisplayName
@@ -17827,8 +17874,9 @@ msgid "Scarred Heart"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Heart1.Description
+#. msgidprev "Overcame their <slink=MajorWound_Heart1>."
 msgctxt "CharacterStatusConfig.Scar_Heart1.Description"
-msgid "Overcame their <slink=MajorWound_Heart1>."
+msgid "Overcame their <slink=MajorWound_Heart1> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Heart2.DisplayName
@@ -17837,8 +17885,9 @@ msgid "Scarred Memories"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Heart2.Description
+#. msgidprev "Overcame their <slink=MajorWound_Heart2>."
 msgctxt "CharacterStatusConfig.Scar_Heart2.Description"
-msgid "Overcame their <slink=MajorWound_Heart2>."
+msgid "Overcame their <slink=MajorWound_Heart2> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Heart3.DisplayName
@@ -17847,8 +17896,9 @@ msgid "Scarred Disposition"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Heart3.Description
+#. msgidprev "Overcame their <slink=MajorWound_Heart3>."
 msgctxt "CharacterStatusConfig.Scar_Heart3.Description"
-msgid "Overcame their <slink=MajorWound_Heart3>."
+msgid "Overcame their <slink=MajorWound_Heart3> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Heart4.DisplayName
@@ -17857,8 +17907,9 @@ msgid "Scarred Self-Esteem"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Heart4.Description
+#. msgidprev "Overcame their <slink=MajorWound_Heart4>."
 msgctxt "CharacterStatusConfig.Scar_Heart4.Description"
-msgid "Overcame their <slink=MajorWound_Heart4>."
+msgid "Overcame their <slink=MajorWound_Heart4> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Spirit1.DisplayName
@@ -17867,8 +17918,9 @@ msgid "Scarred Hope"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Spirit1.Description
+#. msgidprev "Overcame their <slink=MajorWound_Spirit1>."
 msgctxt "CharacterStatusConfig.Scar_Spirit1.Description"
-msgid "Overcame their <slink=MajorWound_Spirit1>."
+msgid "Overcame their <slink=MajorWound_Spirit1> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Spirit2.DisplayName
@@ -17877,8 +17929,9 @@ msgid "Scarred Dreams"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Spirit2.Description
+#. msgidprev "Overcame their <slink=MajorWound_Spirit2>."
 msgctxt "CharacterStatusConfig.Scar_Spirit2.Description"
-msgid "Overcame their <slink=MajorWound_Spirit2>."
+msgid "Overcame their <slink=MajorWound_Spirit2> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Spirit3.DisplayName
@@ -17887,8 +17940,9 @@ msgid "Scarred Ambition"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Spirit3.Description
+#. msgidprev "Overcame their <slink=MajorWound_Spirit3>."
 msgctxt "CharacterStatusConfig.Scar_Spirit3.Description"
-msgid "Overcame their <slink=MajorWound_Spirit3>."
+msgid "Overcame their <slink=MajorWound_Spirit3> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Spirit4.DisplayName
@@ -17897,8 +17951,9 @@ msgid "Scarred Boldness"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Spirit4.Description
+#. msgidprev "Overcame their <slink=MajorWound_Spirit4>."
 msgctxt "CharacterStatusConfig.Scar_Spirit4.Description"
-msgid "Overcame their <slink=MajorWound_Spirit4>."
+msgid "Overcame their <slink=MajorWound_Spirit4> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Serenity1.DisplayName
@@ -17907,8 +17962,9 @@ msgid "Scarred Certainty"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Serenity1.Description
+#. msgidprev "Overcame their <slink=MajorWound_Serenity1>."
 msgctxt "CharacterStatusConfig.Scar_Serenity1.Description"
-msgid "Overcame their <slink=MajorWound_Serenity1>."
+msgid "Overcame their <slink=MajorWound_Serenity1> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Serenity2.DisplayName
@@ -17917,8 +17973,9 @@ msgid "Scarred Trust"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Serenity2.Description
+#. msgidprev "Overcame their <slink=MajorWound_Serenity2>."
 msgctxt "CharacterStatusConfig.Scar_Serenity2.Description"
-msgid "Overcame their <slink=MajorWound_Serenity2>."
+msgid "Overcame their <slink=MajorWound_Serenity2> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Serenity3.DisplayName
@@ -17927,8 +17984,9 @@ msgid "Scarred Ego"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Serenity3.Description
+#. msgidprev "Overcame their <slink=MajorWound_Serenity3>."
 msgctxt "CharacterStatusConfig.Scar_Serenity3.Description"
-msgid "Overcame their <slink=MajorWound_Serenity3>."
+msgid "Overcame their <slink=MajorWound_Serenity3> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Serenity4.DisplayName
@@ -17937,8 +17995,9 @@ msgid "Scarred Sense of Safety"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Serenity4.Description
+#. msgidprev "Overcame their <slink=MajorWound_Serenity4>."
 msgctxt "CharacterStatusConfig.Scar_Serenity4.Description"
-msgid "Overcame their <slink=MajorWound_Serenity4>."
+msgid "Overcame their <slink=MajorWound_Serenity4> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Tenacity1.DisplayName
@@ -17947,8 +18006,9 @@ msgid "Scarred Soul"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Tenacity1.Description
+#. msgidprev "Overcame their <slink=MajorWound_Tenacity1>."
 msgctxt "CharacterStatusConfig.Scar_Tenacity1.Description"
-msgid "Overcame their <slink=MajorWound_Tenacity1>."
+msgid "Overcame their <slink=MajorWound_Tenacity1> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Tenacity2.DisplayName
@@ -17957,8 +18017,9 @@ msgid "Scarred Lifeforce"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Tenacity2.Description
+#. msgidprev "Overcame their <slink=MajorWound_Tenacity2>."
 msgctxt "CharacterStatusConfig.Scar_Tenacity2.Description"
-msgid "Overcame their <slink=MajorWound_Tenacity2>."
+msgid "Overcame their <slink=MajorWound_Tenacity2> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Tenacity3.DisplayName
@@ -17967,8 +18028,9 @@ msgid "Scarred Mettle"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Tenacity3.Description
+#. msgidprev "Overcame their <slink=MajorWound_Tenacity3>."
 msgctxt "CharacterStatusConfig.Scar_Tenacity3.Description"
-msgid "Overcame their <slink=MajorWound_Tenacity3>."
+msgid "Overcame their <slink=MajorWound_Tenacity3> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Tenacity4.DisplayName
@@ -17977,8 +18039,9 @@ msgid "Scarred Nerves"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Scar_Tenacity4.Description
+#. msgidprev "Overcame their <slink=MajorWound_Tenacity4>."
 msgctxt "CharacterStatusConfig.Scar_Tenacity4.Description"
-msgid "Overcame their <slink=MajorWound_Tenacity4>."
+msgid "Overcame their <slink=MajorWound_Tenacity4> but has a <slink=Scar> from the experience."
 msgstr ""
 
 #. Key: CharacterStatusConfig.MissingBedroomOfOwn.DisplayName
@@ -19122,8 +19185,14 @@ msgid "Fully Trained"
 msgstr ""
 
 #. Key: CharacterStatusConfig.MaxSkills.Description
+#. msgidprev "This Student has learned everything they can learn in all Skills and reached their maximum character level, and can now be Hired or Graduated at the <slink=RitualSpot> or promoted to an Apprentice at a Skill-specific teaching Station."
 msgctxt "CharacterStatusConfig.MaxSkills.Description"
-msgid "This Student has learned everything they can learn in all Skills and reached their maximum character level, and can now be Hired or Graduated at the <slink=RitualSpot> or promoted to an Apprentice at a Skill-specific teaching Station."
+msgid ""
+"A Mage is Fully Trained when they have: \n"
+"- Maxed all Magic Skills\n"
+"- Reached their maximum <slink=Level>\n"
+"\n"
+"Fully Trained Students can Graduate or be Hired as <slink=Staff> at the <slink=RitualSpot> or promoted to an <slink=Apprentice> at any <slink=ApprenticeStation>."
 msgstr ""
 
 #. Key: CharacterStatusConfig.MaxMedallions.DisplayName
@@ -20636,6 +20705,16 @@ msgctxt "CharacterStatusConfig.BreathStealerStatus.DisplayName"
 msgid "Attacked by Breath Stealer"
 msgstr ""
 
+#. Key: CharacterStatusConfig.BreathStealerRoarStatus.DisplayName
+msgctxt "CharacterStatusConfig.BreathStealerRoarStatus.DisplayName"
+msgid "Breath Stealer Roar"
+msgstr ""
+
+#. Key: CharacterStatusConfig.BreathStealerImmuneStatus.DisplayName
+msgctxt "CharacterStatusConfig.BreathStealerImmuneStatus.DisplayName"
+msgid "Immune to damage"
+msgstr ""
+
 #. Key: CharacterStatusConfig.AbsorbingMana.DisplayName
 msgctxt "CharacterStatusConfig.AbsorbingMana.DisplayName"
 msgid "Draining Mana"
@@ -21587,9 +21666,11 @@ msgid "Eating crops"
 msgstr "Їсть посіви"
 
 #. Key: CharacterStatusConfig.CroaEating.FlavorText
+#. msgidprev "Eating crops"
+#. msgstrprev "Їсть посіви"
 msgctxt "CharacterStatusConfig.CroaEating.FlavorText"
-msgid "Eating crops"
-msgstr "Їсть посіви"
+msgid "Eating Crops"
+msgstr ""
 
 #. Key: CharacterStatusConfig.CroaTookDamage.DisplayName
 msgctxt "CharacterStatusConfig.CroaTookDamage.DisplayName"
@@ -33242,8 +33323,9 @@ msgid "Disengaged"
 msgstr ""
 
 #. Key: CharacterStatusConfig.Learning_Low.Description
+#. msgidprev "Has not gained a Skill or gained <slink=Experience>  anytime recently."
 msgctxt "CharacterStatusConfig.Learning_Low.Description"
-msgid "Has not gained a Skill or gained <slink=Experience>  anytime recently."
+msgid "Has not gained a Skill or gained <slink=Experience> anytime recently."
 msgstr ""
 
 #. Key: CharacterStatusConfig.Learning_Low.FlavorText
@@ -33382,13 +33464,15 @@ msgid "{0} is no longer in {1}"
 msgstr ""
 
 #. Key: CharacterStatusConfig.TrappedInCrystal.DisplayName
+#. msgidprev "Trapped in a Crystal"
 msgctxt "CharacterStatusConfig.TrappedInCrystal.DisplayName"
-msgid "Trapped in a Crystal"
+msgid "Ensnared in a Fog Trap"
 msgstr ""
 
 #. Key: CharacterStatusConfig.TrappedInCrystal.Description
+#. msgidprev "Rescue this Mage with a battle. Losing or letting the crystal expire will release them, but knock them out, potentially killing them."
 msgctxt "CharacterStatusConfig.TrappedInCrystal.Description"
-msgid "Rescue this Mage with a battle. Losing or letting the crystal expire will release them, but knock them out, potentially killing them."
+msgid "Rescue this Mage with a battle. Losing or letting the trap expire will release them, but knock them out, potentially killing them."
 msgstr ""
 
 #. Key: CharacterStatusConfig.TrappedInCrystal.LogEntry
@@ -33402,63 +33486,75 @@ msgid "{0} is no longer {1}"
 msgstr ""
 
 #. Key: CharacterStatusConfig.RunAwayBreakStatus.DisplayName
+#. msgidprev "Running Away"
 msgctxt "CharacterStatusConfig.RunAwayBreakStatus.DisplayName"
-msgid "Running Away"
+msgid "Dragged Away"
 msgstr ""
 
 #. Key: CharacterStatusConfig.RunAwayBreakStatus.Description
+#. msgidprev "Had a <slink=break> and are running into the fog."
 msgctxt "CharacterStatusConfig.RunAwayBreakStatus.Description"
-msgid "Had a <slink=break> and are running into the fog."
+msgid "Had a <slink=break> and have been grabbed by a smoky tendril, which is dragging them out to the Fog in order to trap them there."
 msgstr ""
 
 #. Key: CharacterStatusConfig.RunAwayBreakStatus.FeedString
+#. msgidprev "BREAK! Running Away."
 msgctxt "CharacterStatusConfig.RunAwayBreakStatus.FeedString"
-msgid "BREAK! Running Away."
+msgid "BREAK! Dragged Away."
 msgstr ""
 
 #. Key: CharacterStatusConfig.RunAwayBreakStatus.FeedHoverString
+#. msgidprev "Running Away Into the Fog:"
 msgctxt "CharacterStatusConfig.RunAwayBreakStatus.FeedHoverString"
-msgid "Running Away Into the Fog:"
+msgid "Dragged Away Into the Fog:"
 msgstr ""
 
 #. Key: CharacterStatusConfig.RunAwayBreakStatus.LogEntry
+#. msgidprev "BREAK! {0} is having a {1}."
 msgctxt "CharacterStatusConfig.RunAwayBreakStatus.LogEntry"
-msgid "BREAK! {0} is having a {1}."
+msgid "BREAK! {0} is being {1}."
 msgstr ""
 
 #. Key: CharacterStatusConfig.RunAwayBreakStatus.LogEntryEnd
+#. msgidprev "{0}'s is no longer {1}."
 msgctxt "CharacterStatusConfig.RunAwayBreakStatus.LogEntryEnd"
-msgid "{0}'s is no longer {1}."
+msgid "{0} is no longer {1}."
 msgstr ""
 
 #. Key: CharacterStatusConfig.EatingBinge.DisplayName
+#. msgidprev "Feeding Frenzy"
 msgctxt "CharacterStatusConfig.EatingBinge.DisplayName"
-msgid "Feeding Frenzy"
+msgid "Forced to Feed"
 msgstr ""
 
 #. Key: CharacterStatusConfig.EatingBinge.Description
+#. msgidprev "Had a <slink=break> and are gorging themselves on whatever food they can find."
 msgctxt "CharacterStatusConfig.EatingBinge.Description"
-msgid "Had a <slink=break> and are gorging themselves on whatever food they can find."
+msgid "Had a <slink=break> and are being forced to gorge on whatever food is nearby."
 msgstr ""
 
 #. Key: CharacterStatusConfig.EatingBinge.FeedString
+#. msgidprev "BREAK! Feeding Frenzy."
 msgctxt "CharacterStatusConfig.EatingBinge.FeedString"
-msgid "BREAK! Feeding Frenzy."
+msgid "BREAK! Forced to Feed."
 msgstr ""
 
 #. Key: CharacterStatusConfig.EatingBinge.FeedHoverString
+#. msgidprev "Having a Feeding Frenzy:"
 msgctxt "CharacterStatusConfig.EatingBinge.FeedHoverString"
-msgid "Having a Feeding Frenzy:"
+msgid "Being Forced to Feed:"
 msgstr ""
 
 #. Key: CharacterStatusConfig.EatingBinge.LogEntry
+#. msgidprev "BREAK! {0} is having a {1}."
 msgctxt "CharacterStatusConfig.EatingBinge.LogEntry"
-msgid "BREAK! {0} is having a {1}."
+msgid "BREAK! {0} is being {1}."
 msgstr ""
 
 #. Key: CharacterStatusConfig.EatingBinge.LogEntryEnd
+#. msgidprev "{0}'s {1} is over."
 msgctxt "CharacterStatusConfig.EatingBinge.LogEntryEnd"
-msgid "{0}'s {1} is over."
+msgid "{0} is no longer being {1}."
 msgstr ""
 
 #. Key: CharacterStatusConfig.AteInedibleIngredient.DisplayName
@@ -33467,8 +33563,9 @@ msgid "Ate Inedible Ingredient"
 msgstr ""
 
 #. Key: CharacterStatusConfig.AteInedibleIngredient.Description
+#. msgidprev "Ate an inedible ingredient when they could not get to a meal during a recent <slink=EatingBinge>."
 msgctxt "CharacterStatusConfig.AteInedibleIngredient.Description"
-msgid "Ate an inedible ingredient when they could not get to a meal during a recent <slink=EatingBinge>."
+msgid "Ate an inedible ingredient when they could not get to a meal while being <slink=EatingBinge>."
 msgstr ""
 
 #. Key: CharacterStatusConfig.OozyStomachBreakStatus.DisplayName
@@ -33477,8 +33574,9 @@ msgid "Oozy Stomach"
 msgstr ""
 
 #. Key: CharacterStatusConfig.OozyStomachBreakStatus.Description
+#. msgidprev "Had a <slink=break> and are wandering the school, vomiting up <slink=Ooze>."
 msgctxt "CharacterStatusConfig.OozyStomachBreakStatus.Description"
-msgid "Had a <slink=break> and are wandering the school, vomiting up <slink=Ooze>."
+msgid "Had a <slink=break> and are being gripped with the urge to wander the school, vomiting up <slink=Ooze>."
 msgstr ""
 
 #. Key: CharacterStatusConfig.OozyStomachBreakStatus.FeedString
@@ -33507,8 +33605,9 @@ msgid "Rampage"
 msgstr ""
 
 #. Key: CharacterStatusConfig.PossessionBreakStatus.Description
+#. msgidprev "Had a <slink=break> and are wandering the school, destroying food and furniture."
 msgctxt "CharacterStatusConfig.PossessionBreakStatus.Description"
-msgid "Had a <slink=break> and are wandering the school, destroying food and furniture."
+msgid "Had a <slink=break> and has temporarily become an avatar of rage, intent on destroying food and furniture."
 msgstr ""
 
 #. Key: CharacterStatusConfig.PossessionBreakStatus.FeedString
@@ -33852,8 +33951,9 @@ msgid "Raven Cultist"
 msgstr ""
 
 #. Key: CharacterStatusConfig.CultistFaction.Description
+#. msgidprev "Bird cultists who believe the world is doomed. They are powerful in battle, but their pessimism makes them gain a negative <slink=Quirk> when other Factions would gain a positive one.\n"
 msgctxt "CharacterStatusConfig.CultistFaction.Description"
-msgid "Bird cultists who believe the world is doomed. They are powerful in battle, but their pessimism makes them gain a negative <slink=Quirk> when other Factions would gain a positive one.\n"
+msgid "Bird cultists who believe the world is doomed. They are powerful in battle, but their pessimism makes them start with two negative <slink=Quirk>.\n"
 msgstr ""
 
 #. Key: CharacterStatusConfig.CultistFaction.FlavorText
@@ -35269,8 +35369,9 @@ msgid "Break"
 msgstr ""
 
 #. Key: KeywordDefinition.break.Description
+#. msgidprev "A Mage may Break and act out severely if they have low Conviction. Mages will be <slink=KnockedOut> after Breaking."
 msgctxt "KeywordDefinition.break.Description"
-msgid "A Mage may Break and act out severely if they have low Conviction. Mages will be <slink=KnockedOut> after Breaking."
+msgid "A Break occurs when a Mage with low Conviction is overwhelmed by magic beyond their control, causing them to act erratically or dangerously. Mages are <slink=KnockedOut> after a Break."
 msgstr ""
 
 #. Key: KeywordDefinition.BotchChance.DisplayName
@@ -35983,8 +36084,19 @@ msgid "Trauma"
 msgstr ""
 
 #. Key: KeywordDefinition.MajorInjury.Description
+#. msgidprev "Incurred when a Mage is Revived from being <slink=KnockedOut>. Mages can be <nlink=KnockedOut> after reaching 0 <slink=HP> or having a <slink=break>. Trauma causes a Mage to develop an additional negative <slink=Quirk>."
 msgctxt "KeywordDefinition.MajorInjury.Description"
-msgid "Incurred when a Mage is Revived from being <slink=KnockedOut>. Mages can be <nlink=KnockedOut> after reaching 0 <slink=HP> or having a <slink=break>. Trauma causes a Mage to develop an additional negative <slink=Quirk>."
+msgid "Incurred when a Mage is Revived from being <slink=KnockedOut>. Mages can be <nlink=KnockedOut> after reaching 0 <slink=HP> or having a <slink=break>. Trauma causes a Mage to develop an additional negative <slink=Quirk>, and Mages can only survive <slink=KnockedOut> for 50% as long before dying for each active Trauma."
+msgstr ""
+
+#. Key: KeywordDefinition.Scar.DisplayName
+msgctxt "KeywordDefinition.Scar.DisplayName"
+msgid "Scar"
+msgstr ""
+
+#. Key: KeywordDefinition.Scar.Description
+msgctxt "KeywordDefinition.Scar.Description"
+msgid "After a while a <slink=MajorInjury> will fade into a Scar. Mages can only survive <slink=KnockedOut> for 67% as long before dying for each Scar they have."
 msgstr ""
 
 #. Key: KeywordDefinition.Retaliate.DisplayName
@@ -36053,8 +36165,9 @@ msgid "Trials"
 msgstr ""
 
 #. Key: KeywordDefinition.Trials.Description
+#. msgidprev "Students can complete Trials to gain large amounts of <slink=Experience> towards leveling up. Students gain this XP again as a bonus when promoted to Apprentice and Staff. Each completed Trial increases the level of Relic earned upon graduating."
 msgctxt "KeywordDefinition.Trials.Description"
-msgid "Students can complete Trials to gain large amounts of <slink=Experience> towards leveling up. Students gain this XP again as a bonus when promoted to Apprentice and Staff. Each completed Trial increases the level of Relic earned upon graduating."
+msgid "Students can complete Trials to gain large amounts of <slink=Experience> towards leveling up. Students gain this XP again as a bonus when promoted to Apprentice and Staff. Each completed Trial increases the level of Relic earned upon graduating or retiring."
 msgstr ""
 
 #. Key: KeywordDefinition.Disapparated.DisplayName
@@ -42983,6 +43096,21 @@ msgctxt "ResourceCategoryDefinition.TreasureChests.DisplayName"
 msgid "Treasure Chests"
 msgstr ""
 
+#. Key: ResourceCategoryDefinition.Ethereal.DisplayName
+msgctxt "ResourceCategoryDefinition.Ethereal.DisplayName"
+msgid "Ethereal"
+msgstr ""
+
+#. Key: ResourceCategoryDefinition.Creatures.DisplayName
+msgctxt "ResourceCategoryDefinition.Creatures.DisplayName"
+msgid "Creatures"
+msgstr ""
+
+#. Key: ResourceCategoryDefinition.Crystals.DisplayName
+msgctxt "ResourceCategoryDefinition.Crystals.DisplayName"
+msgid "Crystals"
+msgstr ""
+
 #. Key: RelationshipLevelDefinition.Neutral.DisplayName
 msgctxt "RelationshipLevelDefinition.Neutral.DisplayName"
 msgid "Neutral"
@@ -43238,6 +43366,11 @@ msgctxt "ResearchTechDefinition.KitchenIV.DisplayName"
 msgid "Sooie!"
 msgstr ""
 
+#. Key: ResearchTechDefinition.KitchenIV.AdditionalSearchKeys.0-638550207968826046
+msgctxt "ResearchTechDefinition.KitchenIV.AdditionalSearchKeys.0-638550207968826046"
+msgid "Refining Beasts"
+msgstr ""
+
 #. Key: ResearchTechDefinition.KitchenV.DisplayName
 msgctxt "ResearchTechDefinition.KitchenV.DisplayName"
 msgid "That's Some Pig"
@@ -43373,6 +43506,11 @@ msgctxt "ResearchTechDefinition.WeaverIIA.DisplayName"
 msgid "Domesticated Magic"
 msgstr ""
 
+#. Key: ResearchTechDefinition.WeaverIIA.AdditionalSearchKeys.0-638550207968861101
+msgctxt "ResearchTechDefinition.WeaverIIA.AdditionalSearchKeys.0-638550207968861101"
+msgid "Refining Beasts"
+msgstr ""
+
 #. Key: ResearchTechDefinition.WeaverIIB.DisplayName
 msgctxt "ResearchTechDefinition.WeaverIIB.DisplayName"
 msgid "Soft Underfoot"
@@ -43406,6 +43544,11 @@ msgstr ""
 #. Key: ResearchTechDefinition.CronebugI.DisplayName
 msgctxt "ResearchTechDefinition.CronebugI.DisplayName"
 msgid "The Cronebug!"
+msgstr ""
+
+#. Key: ResearchTechDefinition.CronebugI.AdditionalSearchKeys.0-638550207968881123
+msgctxt "ResearchTechDefinition.CronebugI.AdditionalSearchKeys.0-638550207968881123"
+msgid "Refining Beasts"
 msgstr ""
 
 #. Key: ResearchTechDefinition.CronebugIIA.DisplayName
@@ -43814,10 +43957,11 @@ msgid "Hunt"
 msgstr "Вполювати"
 
 #. Key: JobTypeDefinition.JobType_Hunting.Description
+#. msgidprev "Hunt wild creatures for resources.\nCan do Task: Staff"
 msgctxt "JobTypeDefinition.JobType_Hunting.Description"
 msgid ""
 "Hunt wild creatures for resources.\n"
-"Can do Task: Staff"
+"Can do Task: Staff, Apprentices"
 msgstr ""
 
 #. Key: JobTypeDefinition.JobType_Healing.DisplayName
@@ -45376,24 +45520,38 @@ msgctxt "DifficultyOptionsDefinition.Default.DownedStateTimerPercent.Options.2-6
 msgid "Downed mages have a reasonable amount of time to be saved."
 msgstr ""
 
-#. Key: DifficultyOptionsDefinition.Default.DownedStateTimerPercent.Options.1-638435900982134983.DisplayName
-msgctxt "DifficultyOptionsDefinition.Default.DownedStateTimerPercent.Options.1-638435900982134983.DisplayName"
+#. Key: DifficultyOptionsDefinition.Default.DownedStateTimerPercent.Options.3-638550987409422711.DisplayName
+msgctxt "DifficultyOptionsDefinition.Default.DownedStateTimerPercent.Options.3-638550987409422711.DisplayName"
 msgid "Short"
 msgstr ""
 
-#. Key: DifficultyOptionsDefinition.Default.DownedStateTimerPercent.Options.1-638435900982134983.Tooltip
-msgctxt "DifficultyOptionsDefinition.Default.DownedStateTimerPercent.Options.1-638435900982134983.Tooltip"
+#. Key: DifficultyOptionsDefinition.Default.DownedStateTimerPercent.Options.3-638550987409422711.Tooltip
+msgctxt "DifficultyOptionsDefinition.Default.DownedStateTimerPercent.Options.3-638550987409422711.Tooltip"
 msgid "Downed mages have a short amount of time to be saved."
 msgstr ""
 
-#. Key: DifficultyOptionsDefinition.Default.DownedStateTimerPercent.Options.4-638525885450308355.DisplayName
-msgctxt "DifficultyOptionsDefinition.Default.DownedStateTimerPercent.Options.4-638525885450308355.DisplayName"
+#. Key: DifficultyOptionsDefinition.Default.DownedStateTimerPercent.Options.1-638435900982134983.DisplayName
+#. msgidprev "Short"
+msgctxt "DifficultyOptionsDefinition.Default.DownedStateTimerPercent.Options.1-638435900982134983.DisplayName"
 msgid "Very Short"
 msgstr ""
 
-#. Key: DifficultyOptionsDefinition.Default.DownedStateTimerPercent.Options.4-638525885450308355.Tooltip
-msgctxt "DifficultyOptionsDefinition.Default.DownedStateTimerPercent.Options.4-638525885450308355.Tooltip"
+#. Key: DifficultyOptionsDefinition.Default.DownedStateTimerPercent.Options.1-638435900982134983.Tooltip
+#. msgidprev "Downed mages have a short amount of time to be saved."
+msgctxt "DifficultyOptionsDefinition.Default.DownedStateTimerPercent.Options.1-638435900982134983.Tooltip"
 msgid "Downed mages have a very short amount of time to be saved."
+msgstr ""
+
+#. Key: DifficultyOptionsDefinition.Default.DownedStateTimerPercent.Options.4-638525885450308355.DisplayName
+#. msgidprev "Very Short"
+msgctxt "DifficultyOptionsDefinition.Default.DownedStateTimerPercent.Options.4-638525885450308355.DisplayName"
+msgid "Extremely Short"
+msgstr ""
+
+#. Key: DifficultyOptionsDefinition.Default.DownedStateTimerPercent.Options.4-638525885450308355.Tooltip
+#. msgidprev "Downed mages have a very short amount of time to be saved."
+msgctxt "DifficultyOptionsDefinition.Default.DownedStateTimerPercent.Options.4-638525885450308355.Tooltip"
+msgid "Downed mages have an extremely short amount of time to be saved."
 msgstr ""
 
 #. Key: DifficultyOptionsDefinition.Default.DownedStateTimerPercent.DisplayName
@@ -45881,6 +46039,11 @@ msgctxt "RoomTypeDefinition.BasicClassroom.Effects.0-638169128389288700"
 msgid "+50% Learning rate"
 msgstr ""
 
+#. Key: RoomTypeDefinition.BasicClassroom.Effects.1-638550207974558826
+msgctxt "RoomTypeDefinition.BasicClassroom.Effects.1-638550207974558826"
+msgid "+50% XP gain while Learning"
+msgstr ""
+
 #. Key: RoomTypeDefinition.BasicClassroom.Rules.1-638415221652443249.Criteria.0-638415221652443249.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.BasicClassroom.Rules.1-638415221652443249.Criteria.0-638415221652443249.ComponentRequirementDisplayName"
 msgid "Workshop Crafting Stations"
@@ -45911,6 +46074,11 @@ msgctxt "RoomTypeDefinition.IntermediateClassroom.Effects.0-638169128389298705"
 msgid "+100% Learning rate"
 msgstr ""
 
+#. Key: RoomTypeDefinition.IntermediateClassroom.Effects.1-638550207974558826
+msgctxt "RoomTypeDefinition.IntermediateClassroom.Effects.1-638550207974558826"
+msgid "+100% XP gain while Learning"
+msgstr ""
+
 #. Key: RoomTypeDefinition.IntermediateClassroom.Rules.2-638415221652443249.Criteria.0-638415221652443249.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.IntermediateClassroom.Rules.2-638415221652443249.Criteria.0-638415221652443249.ComponentRequirementDisplayName"
 msgid "Workshop Crafting Stations"
@@ -45939,6 +46107,11 @@ msgstr ""
 #. Key: RoomTypeDefinition.AdvancedClassroom.Effects.0-638169128389298705
 msgctxt "RoomTypeDefinition.AdvancedClassroom.Effects.0-638169128389298705"
 msgid "+200% Learning rate"
+msgstr ""
+
+#. Key: RoomTypeDefinition.AdvancedClassroom.Effects.1-638550207974568828
+msgctxt "RoomTypeDefinition.AdvancedClassroom.Effects.1-638550207974568828"
+msgid "+200% XP gain while Learning"
 msgstr ""
 
 #. Key: RoomTypeDefinition.AdvancedClassroom.Rules.0-638122528420901400.Criteria.4-638122528420901400.ComponentRequirementDisplayName
@@ -45976,6 +46149,11 @@ msgctxt "RoomTypeDefinition.FireClassroom.Effects.0-638169128389298705"
 msgid "+300% Fire Learning rate"
 msgstr ""
 
+#. Key: RoomTypeDefinition.FireClassroom.Effects.1-638550207974568828
+msgctxt "RoomTypeDefinition.FireClassroom.Effects.1-638550207974568828"
+msgid "+300% XP gain while Learning"
+msgstr ""
+
 #. Key: RoomTypeDefinition.FireClassroom.Rules.1-638122528420971326.Criteria.4-638122528420971326.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.FireClassroom.Rules.1-638122528420971326.Criteria.4-638122528420971326.ComponentRequirementDisplayName"
 msgid "Other Apprentice Stations"
@@ -46011,6 +46189,11 @@ msgctxt "RoomTypeDefinition.WaterClassroom.Effects.0-638169128389298705"
 msgid "+300% Water Learning rate"
 msgstr ""
 
+#. Key: RoomTypeDefinition.WaterClassroom.Effects.1-638550207974568828
+msgctxt "RoomTypeDefinition.WaterClassroom.Effects.1-638550207974568828"
+msgid "+300% XP gain while Learning"
+msgstr ""
+
 #. Key: RoomTypeDefinition.WaterClassroom.Effects.0-638169128389343759
 msgctxt "RoomTypeDefinition.WaterClassroom.Effects.0-638169128389343759"
 msgid "+150% Alchemy rate"
@@ -46044,6 +46227,11 @@ msgstr ""
 #. Key: RoomTypeDefinition.DarkClassroom.Effects.0-638169128389298705
 msgctxt "RoomTypeDefinition.DarkClassroom.Effects.0-638169128389298705"
 msgid "+300% Dark Learning rate"
+msgstr ""
+
+#. Key: RoomTypeDefinition.DarkClassroom.Effects.1-638550207974568828
+msgctxt "RoomTypeDefinition.DarkClassroom.Effects.1-638550207974568828"
+msgid "+300% XP gain while Learning"
 msgstr ""
 
 #. Key: RoomTypeDefinition.DarkClassroom.Rules.1-638122528420971326.Criteria.6-638122528420971326.ComponentRequirementDisplayName
@@ -46086,6 +46274,11 @@ msgctxt "RoomTypeDefinition.AirClassroom.Effects.0-638169128389298705"
 msgid "+300% Air Learning rate"
 msgstr ""
 
+#. Key: RoomTypeDefinition.AirClassroom.Effects.1-638550207974584376
+msgctxt "RoomTypeDefinition.AirClassroom.Effects.1-638550207974584376"
+msgid "+300% XP gain while Learning"
+msgstr ""
+
 #. Key: RoomTypeDefinition.AirClassroom.Rules.1-638122528420971326.Criteria.4-638122528420971326.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.AirClassroom.Rules.1-638122528420971326.Criteria.4-638122528420971326.ComponentRequirementDisplayName"
 msgid "Other Apprentice Stations"
@@ -46119,6 +46312,11 @@ msgstr ""
 #. Key: RoomTypeDefinition.EarthClassroom.Effects.0-638169128389298705
 msgctxt "RoomTypeDefinition.EarthClassroom.Effects.0-638169128389298705"
 msgid "+300% Earth Learning rate"
+msgstr ""
+
+#. Key: RoomTypeDefinition.EarthClassroom.Effects.1-638550207974584376
+msgctxt "RoomTypeDefinition.EarthClassroom.Effects.1-638550207974584376"
+msgid "+300% XP gain while Learning"
 msgstr ""
 
 #. Key: RoomTypeDefinition.EarthClassroom.Rules.1-638122528420971326.Criteria.4-638122528420971326.ComponentRequirementDisplayName
@@ -46156,6 +46354,11 @@ msgctxt "RoomTypeDefinition.LightningClassroom.Effects.0-638169128389298705"
 msgid "+300% Lightning Learning rate"
 msgstr ""
 
+#. Key: RoomTypeDefinition.LightningClassroom.Effects.1-638550207974593882
+msgctxt "RoomTypeDefinition.LightningClassroom.Effects.1-638550207974593882"
+msgid "+300% XP gain while Learning"
+msgstr ""
+
 #. Key: RoomTypeDefinition.LightningClassroom.Rules.1-638122528420971326.Criteria.4-638122528420971326.ComponentRequirementDisplayName
 msgctxt "RoomTypeDefinition.LightningClassroom.Rules.1-638122528420971326.Criteria.4-638122528420971326.ComponentRequirementDisplayName"
 msgid "Other Apprentice Stations"
@@ -46179,6 +46382,11 @@ msgstr ""
 #. Key: RoomTypeDefinition.NatureClassroom.Effects.0-638169128389298705
 msgctxt "RoomTypeDefinition.NatureClassroom.Effects.0-638169128389298705"
 msgid "+300% Nature Learning rate"
+msgstr ""
+
+#. Key: RoomTypeDefinition.NatureClassroom.Effects.1-638550207974593882
+msgctxt "RoomTypeDefinition.NatureClassroom.Effects.1-638550207974593882"
+msgid "+300% XP gain while Learning"
 msgstr ""
 
 #. Key: RoomTypeDefinition.NatureClassroom.Rules.1-638122528420971326.Criteria.6-638122528420971326.ComponentRequirementDisplayName
@@ -48278,11 +48486,12 @@ msgid "\"Classroom learning is not sufficient to master magic. You must undergo 
 msgstr ""
 
 #. Key: TutorialDefinition.TrialsAndMedallions.Body
+#. msgidprev "Students enter the school with various Trials, which are feats they can perform to unlock extra magical potential. Each Student's Trials are unique to them.\n\nMahes who complete a Trial earn experience, allowing them to quickly level up.\n"
 msgctxt "TutorialDefinition.TrialsAndMedallions.Body"
 msgid ""
 "Students enter the school with various Trials, which are feats they can perform to unlock extra magical potential. Each Student's Trials are unique to them.\n"
 "\n"
-"Mahes who complete a Trial earn experience, allowing them to quickly level up.\n"
+"Mages who complete a Trial earn experience, allowing them to quickly level up.\n"
 msgstr ""
 
 #. Key: TutorialDefinition.BedRest.Feed
@@ -51421,33 +51630,39 @@ msgid "Hates sleeping outdoors or in rooms with less than 50 Luxury."
 msgstr ""
 
 #. Key: LikeDefinition.SocialFoodLike1.DisplayName
+#. msgidprev "Likes Sharing a Meal with [TargetEntity]"
 msgctxt "LikeDefinition.SocialFoodLike1.DisplayName"
-msgid "Likes Sharing a Meal with [TargetEntity]"
+msgid "Prefers eating in a room with [TargetEntity]"
 msgstr ""
 
 #. Key: LikeDefinition.SocialFoodLike1.Description
+#. msgidprev "Enjoys sharing a Meal with [TargetEntity]."
 msgctxt "LikeDefinition.SocialFoodLike1.Description"
-msgid "Enjoys sharing a Meal with [TargetEntity]."
+msgid "Enjoys eating in the same room as [TargetEntity], and dislikes eating apart from [TargetEntity]. Will also be upset if [TargetEntity] dies or leaves the school."
 msgstr ""
 
 #. Key: LikeDefinition.SocialRestLike1.DisplayName
+#. msgidprev "Likes Sharing a Bedroom with [TargetEntity]"
 msgctxt "LikeDefinition.SocialRestLike1.DisplayName"
-msgid "Likes Sharing a Bedroom with [TargetEntity]"
+msgid "Prefers Sharing a Bedroom with [TargetEntity]"
 msgstr ""
 
 #. Key: LikeDefinition.SocialRestLike1.Description
+#. msgidprev "Enjoys sleeping in the same room as [TargetEntity]."
 msgctxt "LikeDefinition.SocialRestLike1.Description"
-msgid "Enjoys sleeping in the same room as [TargetEntity]."
+msgid "Enjoys sleeping in the same room as [TargetEntity], and dislikes sleeping apart from [TargetEntity]. Will also be upset if [TargetEntity] dies or leaves the school."
 msgstr ""
 
 #. Key: LikeDefinition.SocialRecreationLike1.DisplayName
+#. msgidprev "Likes Recreating with [TargetEntity]"
 msgctxt "LikeDefinition.SocialRecreationLike1.DisplayName"
-msgid "Likes Recreating with [TargetEntity]"
+msgid "Prefers Recreating in a room with [TargetEntity]"
 msgstr ""
 
 #. Key: LikeDefinition.SocialRecreationLike1.Description
+#. msgidprev "Enjoys Recreating with [TargetEntity]."
 msgctxt "LikeDefinition.SocialRecreationLike1.Description"
-msgid "Enjoys Recreating with [TargetEntity]."
+msgid "Enjoys recreating in the same room as [TargetEntity], and dislikes recreating apart from [TargetEntity]. Will also be upset if [TargetEntity] dies or leaves the school."
 msgstr ""
 
 #. Key: StatGrowthDefinition.StatGrowth_F.DisplayName
@@ -55749,3 +55964,4 @@ msgstr "Діск"
 msgctxt "ArtifactTypeNameDefinition.RecordName3.ArtifactTypeName"
 msgid "Album"
 msgstr "Альбом"
+
